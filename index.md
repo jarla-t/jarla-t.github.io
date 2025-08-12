@@ -1,12 +1,12 @@
 ---
 layout: splash
 title: "Welcome"
-tab_title: "Jarla Thiesbrummel"
 header:
   overlay_image: "https://jarla-t.github.io/assets/images/arctic-banner.jpg"
   overlay_filter: 0.2
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
-
+seo:
+  title: "Jarla Thiesbrummel"
 
 ---
 
