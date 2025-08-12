@@ -4,8 +4,12 @@ title: "Research"
 permalink: /research/
 ---
 <style>
-  /* Widen main article and content containers */
-  article, .page__content, main {
+  /* widen main content */
+  article#single article,
+  article#single .page__content,
+  article#single main,
+  article#single .container,
+  article#single .wrapper {
     max-width: 1000px !important;
     width: 100% !important;
     margin-left: auto !important;
@@ -14,6 +18,7 @@ permalink: /research/
     padding-right: 1rem !important;
   }
 </style>
+
 
 My research focuses on perovskite solar cells and climate-related materials science.
 
