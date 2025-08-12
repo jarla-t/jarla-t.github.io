@@ -1,0 +1,20 @@
+title: "Your Name"
+email: "your.email@example.com"
+description: "A minimal mistakes based academic + hobby website"
+baseurl: ""
+url: "https://yourusername.github.io"
+repository: "https://github.com/yourusername/yourrepo"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: cold
+
+navigation:
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Hobbies"
+    url: /hobbies/
+  - title: "Photography"
+    url: /photography/
