@@ -128,5 +128,5 @@ permalink: /cv/
 ## Awards
 
 - 🏆 **Humboldt Research Fellowship**
-- 🥇 **Best Oral Presentation**, Symposium C, e-MRS spring 2021
+- 🥇 **Best Oral Presentation**, Symposium C, e-MRS Spring 2021
 - 🎓 **Best Master Thesis in Academia**, Materials Science and Engineering, EPFL
