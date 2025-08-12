@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Welcome"
+title: ""
 header:
   overlay_image: "https://jarla-t.github.io/assets/images/arctic-banner.jpg"
   overlay_filter: 0.2
