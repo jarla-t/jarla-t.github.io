@@ -1,7 +1,7 @@
 ---
+layout: single
 title: Hobbies
 permalink: /hobbies/
-layout:single
 ---
 
 I enjoy Arctic exploration and aim to spread awareness about climate change.
