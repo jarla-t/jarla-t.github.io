@@ -27,35 +27,35 @@ permalink: /cv/
   <a href="https://amolf.nl/" target="_blank">
     <img src="/assets/images/logos/Amolf.jpg" alt="AMOLF logo">
   </a>
-  <div><strong>Postdoctoral Researcher</strong>, AMOLF — <em>2024–2025</em><br>Perovskite solar cells & materials science.</div>
+  <div><strong>Postdoctoral Researcher</strong>, AMOLF — <em>2024–2025</em><br>Mobile ions in metal halide perovskites.</div>
 </div>
 
 <div class="cv-entry">
   <a href="https://www.ox.ac.uk/" target="_blank">
     <img src="/assets/images/logos/Oxford.png" alt="Oxford logo">
   </a>
-  <div><strong>PhD in Materials Science</strong>, University of Oxford — <em>2019–2023</em><br>Thesis: *Perovskite solar cell stability and ion migration dynamics*.</div>
+  <div><strong>PhD in Physics</strong>, University of Oxford — <em>2019–2023</em><br>Thesis: *Understanding the physics of perovskite solar cells for stable and efficient multijunction photovoltaics*.</div>
 </div>
 
 <div class="cv-entry">
   <a href="https://www.unis.no/" target="_blank">
     <img src="/assets/images/logos/unis2.jpg" alt="UNIS logo">
   </a>
-  <div><strong>Guest Researcher</strong>, University Centre in Svalbard (UNIS) — <em>2023</em></div>
+  <div><strong>Visiting student</strong>, University Centre in Svalbard (UNIS) — <em>2023</em></div>
 </div>
 
 <div class="cv-entry">
   <a href="https://www.epfl.ch/" target="_blank">
     <img src="/assets/images/logos/Epfl.png" alt="EPFL logo">
   </a>
-  <div><strong>Master in Materials Science</strong>, EPFL — <em>2016–2019</em></div>
+  <div><strong>Master in Materials Science and Engineering</strong>, EPFL — <em>2016–2019</em></div>
 </div>
 
 <div class="cv-entry">
   <a href="https://www.tue.nl/" target="_blank">
     <img src="/assets/images/logos/Tue.png" alt="TU/e logo">
   </a>
-  <div><strong>Bachelor in Applied Physics</strong>, Eindhoven University of Technology — <em>2013–2016</em></div>
+  <div><strong>Double bachelors in Chemical Engineering & Applied Physics</strong>, Eindhoven University of Technology — <em>2013/2014–2016</em></div>
 </div>
 
 ---
@@ -66,14 +66,14 @@ permalink: /cv/
   <a href="https://home.cern/" target="_blank">
     <img src="/assets/images/logos/cern.png" alt="CERN logo">
   </a>
-  <div><strong>Research Internship</strong>, CERN — <em>Year</em></div>
+  <div><strong>Summer student</strong>, CERN — <em>2018</em></div>
 </div>
 
 <div class="cv-entry">
   <a href="https://www.esa.int/" target="_blank">
     <img src="/assets/images/logos/Esa.jpg" alt="ESA logo">
   </a>
-  <div><strong>Research Internship</strong>, European Space Agency (ESA) — <em>Year</em></div>
+  <div><strong>Research Internship</strong>, European Space Agency (ESA) — <em>2017</em></div>
 </div>
 
 ---
