@@ -5,11 +5,11 @@ permalink: /research/
 ---
 
 <style>
-  main {
+  /* Make container wider and remove padding if needed */
+  .container {
     max-width: 1000px !important;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
 </style>
 
