@@ -1,0 +1,42 @@
+---
+layout: home
+---
+
+{%- assign header = page.header -%}
+{%- if header.overlay_image %}
+  {% assign header_overlay_image = header.overlay_image | relative_url %}
+{%- endif -%}
+
+<section class="splash {% if page.header.overlay_filter %}filter-{{ page.header.overlay_filter }}{% endif %}" style="background-image: url('{{ header_overlay_image }}')">
+
+  <div class="splash-inner">
+    <div class="container">
+      <header class="splash-header">
+        <h1 class="splash-title">{{ page.title }}</h1>
+        {% if page.excerpt %}
+          <p class="splash-excerpt">{{ page.excerpt }}</p>
+        {% endif %}
+        {% if page.header.cta_url and page.header.cta_label %}
+          <a href="{{ page.header.cta_url | relative_url }}" class="btn btn-primary splash-cta">{{ page.header.cta_label }}</a>
+        {% endif %}
+      </header>
+
+      {% if page.feature_row %}
+      <div class="feature-row">
+        <div class="row">
+          {% for feature in page.feature_row %}
+            <div class="feature-item col-12 col-md-4">
+              {% if feature.image_path %}
+                <img src="{{ feature.image_path | relative_url }}" alt="{{ feature.alt }}" class="feature-image" />
+              {% endif %}
+              <h3><a href="{{ feature.url | relative_url }}">{{ feature.title }}</a></h3>
+              <p>{{ feature.excerpt }}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+
+</section>
