@@ -4,10 +4,7 @@ description: "A minimal mistakes based academic + hobby website"
 baseurl: ""
 url: "https://jarla-t.github.io"
 repository: "https://github.com/jarla-t/jarla-t.github.io"
-remote_theme: mmistakes/minimal-mistakes@4.27.3
-plugins:
-  - jekyll-remote-theme
-minimal_mistakes_skin: cold
+theme: jekyll-theme-cayman
 
 navigation:
   - title: "Research"
