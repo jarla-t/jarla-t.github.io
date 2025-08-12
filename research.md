@@ -5,8 +5,8 @@ permalink: /research/
 ---
 
 <style>
-  /* Widen only the main content container */
-  main.container {
+  /* Widen only the inner content, not header/footer */
+  .page__content {
     max-width: 1000px !important;
     margin-left: auto;
     margin-right: auto;
