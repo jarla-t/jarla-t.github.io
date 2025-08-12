@@ -19,7 +19,8 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
        text-decoration: none; 
        border-radius: 8px; 
        overflow: hidden; 
-       height: 200px;">
+       aspect-ratio: 1 / 1;
+       min-width: 280px; ;">
 
     <img src="https://jarla-t.github.io/assets/images/research-icon.png" 
          alt="Research" 
@@ -49,7 +50,8 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
        text-decoration: none; 
        border-radius: 8px; 
        overflow: hidden; 
-       height: 200px;">
+       aspect-ratio: 1 / 1;
+       min-width: 280px; ;">
 
     <img src="https://jarla-t.github.io/assets/images/hobbies-icon.png" 
          alt="Hobbies" 
@@ -79,7 +81,8 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
        text-decoration: none; 
        border-radius: 8px; 
        overflow: hidden; 
-       height: 200px;">
+       aspect-ratio: 1 / 1;
+       min-width: 280px; ;">
 
     <img src="https://jarla-t.github.io/assets/images/photography-icon.png" 
          alt="Photography" 
