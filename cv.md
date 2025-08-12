@@ -5,16 +5,26 @@ permalink: /cv/
 ---
 
 <style>
+    /* Make the whole page a bit wider */
+  .page__content {
+    max-width: 900px; /* default is ~720px */
+    margin: 0 auto;
+  }
   .cv-entry {
     display: flex;
-    align-items: center;
+    align-items: flex-start;  /*default is center*/
     margin-bottom: 1.2em;
   }
   .cv-entry img {
+    flex-shrink: 0;  /*added new*/
     width: 50px;
     height: 50px;
     object-fit: contain;
     margin-right: 15px;
+  }
+  /* Text column, new */
+  .cv-entry div {
+    flex: 1;
   }
   .cv-section {
     margin-top: 2em;
