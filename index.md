@@ -103,7 +103,8 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
                 display: flex; 
                 flex-direction: column; 
                 justify-content: center; 
-                background: rgba(0,0,0,0.3);">
+                background: rgba(0,0,0,0.3);
+                text-allign: center;">
       <h3 style="margin: 0 0 0.5rem;">Photography</h3>
       <p style="margin: 0;">Capturing the beauty of nature and life in the Arctic.</p>
     </div>
