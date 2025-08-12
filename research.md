@@ -3,14 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 ---
-.page__content, main, .container, .wrapper {
-  max-width: 1000px !important;
-  width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
-}
+
 
 
 My research focuses on perovskite solar cells and climate-related materials science.
@@ -54,4 +47,17 @@ My projects combine experimental and computational approaches to understand and 
 
 </div>
 
-
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="/publications/" style="
+    display: inline-block;
+    background-color: #52adc8;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#3a8abf'" onmouseout="this.style.backgroundColor='#52adc8'">
+    View All Publications
+  </a>
+</div>
