@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.2
   cta_label: "Contact Me"
   cta_url: /cv/
-excerpt: "Scientist • Adventurist • Climate Enthusiast"
+excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 feature_row:
   - image_path: "https://jarla-t.github.io/assets/images/research-icon.png"
