@@ -5,15 +5,8 @@ baseurl: ""
 url: "https://jarla-t.github.io"
 repository: "https://github.com/jarla-t/jarla-t.github.io"
 
-
-head:
-  - name: google-site-verification
-    content: <meta name="google-site-verification" content="f-br9DpBs8QkUJJSiJIzwd01kN3cle6vKWUSSeFtwoQ" />
-
-
 # Use the remote_theme plugin to load Minimal Mistakes from GitHub
 remote_theme: mmistakes/minimal-mistakes@3.4.8
-title_tag_override: true
 
 
 plugins:
