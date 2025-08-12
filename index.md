@@ -13,9 +13,7 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 2rem;">
 
-  <a href="/research/" style="flex: none
-       width: 300px; 
-       padding-top: 100%;
+  <a href="/research/" style="flex: 1 1 300px; 
        position: relative; 
        color: white; 
        text-decoration: none; 
