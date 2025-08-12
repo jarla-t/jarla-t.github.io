@@ -81,7 +81,9 @@ permalink: /cv/
   <a href="https://www.ox.ac.uk/" target="_blank">
     <img src="/assets/images/logos/Oxford.png" alt="Oxford logo">
   </a>
-  <div><strong>PhD in Physics</strong>, University of Oxford — <em>2019–2023</em><br>Thesis: *Understanding the physics of perovskite solar cells for stable and efficient multijunction photovoltaics*.</div>
+  <div><strong>PhD in Physics</strong>, University of Oxford — <em>2019–2023</em><br>
+  Thesis: <a href="https://ora.ox.ac.uk/objects/uuid:bb8ef67a-7257-473d-8024-56f067fa0ab9/files/dnc580n25m" target="_blank" rel="noopener noreferrer"><em>Understanding the physics of perovskite solar cells for stable and efficient multijunction photovoltaics</em></a>.
+  </div>
 </div>
 
 <div class="cv-entry">
