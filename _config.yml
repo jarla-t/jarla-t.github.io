@@ -9,6 +9,11 @@ repository: "https://github.com/jarla-t/jarla-t.github.io"
 remote_theme: mmistakes/minimal-mistakes@3.4.8
 title_tag_override: true
 
+head:
+  - name: google-site-verification
+    content: <meta name="google-site-verification" content="f-br9DpBs8QkUJJSiJIzwd01kN3cle6vKWUSSeFtwoQ" />
+
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
