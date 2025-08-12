@@ -3,21 +3,14 @@ layout: single
 title: "Research"
 permalink: /research/
 ---
-<style>
-  /* widen main content */
-  article#single article,
-  article#single .page__content,
-  article#single main,
-  article#single .container,
-  article#single .wrapper {
-    max-width: 1000px !important;
-    width: 100% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
-  }
-</style>
+.page__content, main, .container, .wrapper {
+  max-width: 1000px !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
 
 
 My research focuses on perovskite solar cells and climate-related materials science.
