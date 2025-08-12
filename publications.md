@@ -61,3 +61,33 @@ permalink: /publications/
 </ol>
 
 
+<ul>
+  <li><a href="https://doi.org/10.1021/acsenergylett.5c01102">
+    S. C. Gillespie, A. O. Alvarez, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, B. Ehrler, G. Coletti, and E. C. Garnett, “Intensity-Modulated Photoluminescence Spectroscopy for Revealing Ionic Processes in Halide Perovskites,” <i>ACS Energy Letters</i>, vol. 10, pp. 3122–3131, 2025.
+  </a></li>
+
+  <li><a href="https://doi.org/10.1002/adma.202307743">
+    F. Yang et al., “Minimizing interfacial recombination in 1.8 eV triple-halide perovskites for 27.5 % efficient all-perovskite tandems,” <i>Advanced Materials</i>, vol. 36, no. 6, art. 2307743, 2024.
+  </a></li>
+
+  <li><a href="https://doi.org/10.1021/jacs.3c11711">
+    Z. Iqbal et al., “Unveiling the potential of ambient air annealing for highly efficient inorganic CsPbI<sub>3</sub> perovskite solar cells,” <i>Journal of the American Chemical Society</i>, vol. 146, no. 7, pp. 4642–4651, 2024.
+  </a></li>
+
+  <li><a href="https://doi.org/10.1021/acs.chemrev.3c00667">
+    S. Hu, J. Thiesbrummel, J. Pascual, M. Stolterfoht, A. Wakamiya, and H. J. Snaith, “Narrow bandgap metal halide perovskites for all-perovskite tandem photovoltaics,” <i>Chemical Reviews</i>, vol. 124, no. 7, pp. 4079–4123, 2024.
+  </a></li>
+
+  <li><a href="https://doi.org/10.1038/s41560-024-01487-w">
+    J. Thiesbrummel et al., “Ion-induced field screening as a dominant factor in perovskite solar cell operational stability,” <i>Nature Energy</i>, vol. 9, no. 6, pp. 664–676, 2024.
+  </a></li>
+
+  <li><a href="https://doi.org/10.1002/aenm.202400720">
+    S. Shah et al., “Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells,” <i>Advanced Energy Materials</i>, vol. 14, no. 48, art. 2400720, 2024.
+  </a></li>
+
+  <li><a href="https://doi.org/10.1088/2515-7655/ad7404">
+    J. C. Blakesley et al., “Roadmap on established and emerging photovoltaics for sustainable energy conversion,” <i>Journal of Physics: Energy</i>, vol. 6, no. 4, art. 041501, 2024.
+  </a></li>
+</ul>
+
