@@ -2,8 +2,8 @@ title: "Your Name"
 email: "your.email@example.com"
 description: "A minimal mistakes based academic + hobby website"
 baseurl: ""
-url: "https://yourusername.github.io"
-repository: "https://github.com/yourusername/yourrepo"
+url: "https://jarla-t.github.io"
+repository: "https://github.com/jarla-t/jarla-t.github.io"
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: cold
 
