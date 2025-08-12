@@ -33,8 +33,8 @@ permalink: /cv/
 
 ## Education
 
-<div class="cv-entry" style="display: flex; align-items: flex-start; margin-bottom: 1.2em;">
-  <div style="display: flex; flex-direction: column; margin-right: 15px; flex-shrink: 0;">
+<div class="cv-entry" style="display: flex; align-items: flex-start; margin-bottom: 1.2em; max-width: 900px;">
+  <div style="display: flex; flex-direction: column; margin-right: 15px; flex-shrink: 0; width: 60px;">
     <a href="https://www.uni-potsdam.de/en/university-of-potsdam/" target="_blank" style="margin-bottom: 8px;">
       <img src="/assets/images/logos/potsdam2.png" alt="Uni Potsdam logo" style="width: 50px; height: 50px; object-fit: contain;">
     </a>
@@ -42,11 +42,12 @@ permalink: /cv/
       <img src="/assets/images/logos/HZB-logo.png" alt="HZB logo" style="width: 50px; height: 50px; object-fit: contain;">
     </a>
   </div>
-  <div>
+  <div style="flex: 1 1 auto;">
     <strong>Humboldt Research Fellow</strong>, Potsdam University & Helmholtz Zentrum Berlin — <em>2025</em><br>
     Understanding and controlling mobile ions in metal halide perovskites.
   </div>
 </div>
+
 
 <div class="cv-entry">
   <a href="https://www.uni-potsdam.de/en/university-of-potsdam/" target="_blank">
