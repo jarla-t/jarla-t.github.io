@@ -15,6 +15,7 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
   <a href="/research/" style="flex: none
        width: 300px; 
+       padding-top: 100%;
        position: relative; 
        color: white; 
        text-decoration: none; 
