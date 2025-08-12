@@ -8,7 +8,7 @@ header:
   cta_url: /cv/
 excerpt: "Scientist • Adventurist • Climate Enthusiast"
 feature_row:
-  - image_path: "{{ '/assets/images/research-icon.png' | relative_url }}"
+  - image_path: /assets/images/research-icon.png
     alt: "Research"
     title: "Research"
     url: /research/
