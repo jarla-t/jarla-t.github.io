@@ -5,18 +5,14 @@ permalink: /research/
 ---
 
 <style>
-  /* Force the main content width wider on this page only */
-
-  /* The full page wrapper */
-  .page-single {
+  /* Force wider content area for research page only */
+  .page__content {
     max-width: 1000px !important;
+    width: 100% !important;
     margin-left: auto !important;
     margin-right: auto !important;
-  }
-
-  /* Inner container */
-  .page-single > .container {
-    max-width: 100% !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
 </style>
 
