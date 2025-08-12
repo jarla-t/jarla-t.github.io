@@ -8,23 +8,7 @@ header:
   cta_url: /cv/
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
-<!--feature_row:
-  - image_path: "https://jarla-t.github.io/assets/images/research-icon.png"
-    alt: "Research"
-    title: "Research"
-    url: /research/
-    excerpt: "Perovskites, solar cells, and climate-related materials science."
-  - image_path: "https://jarla-t.github.io/assets/images/hobbies-icon.jpg"
-    alt: "Hobbies"
-    title: "Hobbies"
-    url: /hobbies/
-    excerpt: "Arctic exploration, climate change stories, outdoor adventures."
-  - image_path: "https://jarla-t.github.io/assets/images/photography-icon.jpg"
-    alt: "Photography"
-    title: "Photography"
-    url: /photography/
-    excerpt: "Capturing the beauty of nature and life in the Arctic."
-    -->
+
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 2rem;">
