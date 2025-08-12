@@ -3,7 +3,7 @@ layout: splash
 title: "Welcome"
 header:
   overlay_image: "https://yourdomain.com/assets/images/arctic-banner.jpg"
-  overlay_filter: 0.2
+  overlay_filter: 0.8
   cta_label: "Contact Me"
   cta_url: /cv/
 excerpt: "Scientist • Photographer • Climate Enthusiast"
