@@ -2,7 +2,7 @@
 layout: splash
 title: "Welcome"
 header:
-  overlay_image: "https://yourdomain.com/assets/images/arctic-banner.jpg"
+  overlay_image: "https://jarla-t.github.io/assets/images/arctic-banner.jpg"
   overlay_filter: 0.0
   cta_label: "Contact Me"
   cta_url: /cv/
