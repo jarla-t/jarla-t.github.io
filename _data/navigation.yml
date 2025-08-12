@@ -1,0 +1,7 @@
+footer:
+  - title: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=YOUR_ID"
+  - title: "ORCID"
+    url: "https://orcid.org/YOUR_ID"
+  - title: "GitHub"
+    url: "https://github.com/YOUR_USERNAME"
