@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.0
   cta_label: "Contact Me"
   cta_url: /cv/
-excerpt: "Scientist • Photographer • Climate Enthusiast"
+excerpt: "Scientist • Adventurist • Climate Enthusiast"
 feature_row:
   - image_path: "{{ '/assets/images/research-icon.png' | relative_url }}"
     alt: "Research"
