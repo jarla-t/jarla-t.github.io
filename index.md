@@ -9,12 +9,6 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
 
-{% capture new_title %}
-  <title>Jarla Thiesbrummel</title>
-{% endcapture %}
-
-{% assign page.title_tag_override = new_title %}
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 2rem;">
 
   <a href="/research/" style="flex: 1 1 300px; 
