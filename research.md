@@ -3,10 +3,9 @@ layout: single
 title: "Research"
 permalink: /research/
 ---
-
 <style>
-  /* Force wider content area for research page only */
-  .page__content {
+  /* Widen main article and content containers */
+  article, .page__content, main {
     max-width: 1000px !important;
     width: 100% !important;
     margin-left: auto !important;
