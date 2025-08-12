@@ -5,11 +5,18 @@ permalink: /research/
 ---
 
 <style>
-  /* Make container wider and remove padding if needed */
-  .container {
+  /* Force the main content width wider on this page only */
+
+  /* The full page wrapper */
+  .page-single {
     max-width: 1000px !important;
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* Inner container */
+  .page-single > .container {
+    max-width: 100% !important;
   }
 </style>
 
