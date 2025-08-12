@@ -23,24 +23,41 @@ permalink: /publications/
 </ul>
 
 <ol>
-  <li>S. C. Gillespie, A. O. Alvarez, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, B. Ehrler, G. Coletti, and E. C. Garnett, “Intensity-Modulated Photoluminescence Spectroscopy for Revealing Ionic Processes in Halide Perovskites,” <i>ACS Energy Lett.</i>, vol. 10, no. 7, pp. 3122–3131, 2025. <a href="https://doi.org/10.1021/acsenergylett.5c01102">doi</a></li>
-  <li>F. Yang, P. Tockhorn, A. Musiienko, F. Lang, D. Menzel, R. Macqueen, E. Köhnen, K. Xu, S. Mariotti, D. Mantione, et al., “Minimizing interfacial recombination in 1.8 eV triple-halide perovskites for 27.5 % efficient all-perovskite tandems,” <i>Adv. Mater.</i>, vol. 36, no. 6, p. 2307743, 2024. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>Z. Iqbal, R. Félix, A. Musiienko, J. Thiesbrummel, H. Köbler, E. Gutierrez-Partida, T. W. Gries, E. Hüsam, A. Saleh, R. G. Wilks, et al., “Unveiling the potential of ambient air annealing for highly efficient inorganic CsPbI<sub>3</sub> perovskite solar cells,” <i>J. Am. Chem. Soc.</i>, vol. 146, no. 7, pp. 4642–4651, 2024. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>S. Hu, J. Thiesbrummel, J. Pascual, M. Stolterfoht, A. Wakamiya, and H. J. Snaith, “Narrow bandgap metal halide perovskites for all-perovskite tandem photovoltaics,” <i>Chem. Rev.</i>, vol. 124, no. 7, pp. 4079–4123, 2024. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>J. Thiesbrummel, S. Shah, E. Gutierrez-Partida, F. Zu, F. Peña-Camargo, S. Zeiske, J. Diekmann, F. Ye, K. P. Peters, K. O. Brinkmann, et al., “Ion-induced field screening as a dominant factor in perovskite solar cell operational stability,” <i>Nat. Energy</i>, vol. 9, no. 6, pp. 664–676, 2024. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>S. Shah, F. Yang, E. Köhnen, E. Ugur, M. Khenkin, J. Thiesbrummel, B. Li, L. Holte, S. Berwig, F. Scherler, et al., “Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells,” <i>Adv. Energy Mater.</i>, vol. 14, no. 48, p. 2400720, 2024. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>J. C. Blakesley, R. S. Bonilla, M. Freitag, A. M. Ganose, N. Gasparini, P. Kaienburg, G. Koutsourakis, J. D. Major, J. Nelson, N. K. Noel, et al., “Roadmap on established and emerging photovoltaics for sustainable energy conversion,” <i>J. Phys. Energy</i>, vol. 6, no. 4, p. 041501, 2024. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>J. Zhu, Y. Luo, R. He, C. Chen, Y. Wang, J. Luo, Z. Yi, J. Thiesbrummel, C. Wang, F. Lang, et al., “A donor–acceptor-type hole-selective contact reducing non-radiative recombination losses in both subcells towards efficient all-perovskite tandems,” <i>Nat. Energy</i>, vol. 8, no. 7, pp. 714–724, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>R. He, W. Wang, Z. Yi, F. Lang, C. Chen, J. Luo, J. Zhu, J. Thiesbrummel, S. Shah, K. Wei, et al., “Improving interface quality for 1-cm<sup>2</sup> all-perovskite tandem solar cells,” <i>Nature</i>, vol. 618, no. 7963, pp. 80–86, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>P. Caprioglio, J. A. Smith, R. D. J. Oliver, A. Dasgupta, S. Choudhary, M. D. Farrar, A. J. Ramadan, Y.-H. Lin, M. G. Christoforo, J. M. Ball, et al., “Open-circuit and short-circuit loss management in wide-gap perovskite pin solar cells,” <i>Nat. Commun.</i>, vol. 14, no. 1, p. 932, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>J. Diekmann, F. Peña-Camargo, N. Tokmoldin, J. Thiesbrummel, J. Warby, E. Gutierrez-Partida, S. Shah, D. Neher, M. Stolterfoht, “Determination of mobile ion densities in halide perovskites via low-frequency capacitance and charge extraction techniques,” <i>J. Phys. Chem. Lett.</i>, vol. 14, no. 18, pp. 4200–4210, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>F. Yang, R. MacQueen, D. Menzel, A. Musiienko, A. Al-Ashouri, J. Thiesbrummel, S. Shah, K. Prashanthan, D. Abou-Ras, L. Korte, et al., “Rubidium iodide reduces recombination losses in methylammonium-free tin-lead perovskite solar cells,” <i>Adv. Energy Mater.</i>, vol. 13, no. 19, p. 2204339, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>J. Warby, S. Shah, J. Thiesbrummel, E. Gutierrez-Partida, H. Lai, B. Alebachew, M. Grischek, F. Yang, F. Lang, S. Albrecht, et al., “Mismatch of quasi–Fermi level splitting and Voc in perovskite solar cells,” <i>Adv. Energy Mater.</i>, vol. 13, no. 48, p. 2303135, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>M. Stolterfoht, S. Shah, E. Köhnen, E. Ugur, J. Thiesbrummel, M. Khenkin, L. Holte, F. Scherler, P. Forozi, F. Yang, et al., “The impact of ion migration on the performance and stability of perovskite-based tandem solar cells,” (publisher: Fundacio Scito), 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>F. Lang, G. Eperon, J. Thiesbrummel, E. Köhnen, F. Peña-Camargo, H.-C. Neitzert, S. Albrecht, S. Stranks, D. Neher, M. Stolterfoht, et al., “Potential, Radiation Tolerance and Damage Mechanisms of Perovskite Multijunction-Based Space PV,” in *Abstract book of the 50th Material Research Society (MRS) spring meeting 2023 – Symposium: EL15 Radiation—Hard and Lightweight Next-Generation Semiconductor Electronics*, pp. 1–1, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>J. Thiesbrummel, F. Le Corre, F. Peña-Camargo, L. Perdigón-Toro, F. Lang, F. Yang, M. Grischek, E. Gutierrez-Partida, J. Warby, M. Farrar, et al., “Universal current losses in perovskite solar cells due to mobile ions,” <i>Adv. Energy Mater.</i>, vol. 11, no. 34, p. 2101447, 2021. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>J. Yamagishi, M. Tanaka, J. J. M. Lenders, J. Thiesbrummel, N. A. J. M. Sommerdijk, T. Matsunaga, and A. Arakaki, “Control of magnetite nanocrystal morphology in magnetotactic bacteria by regulation of mms7 gene expression,” <i>Scientific Reports</i>, vol. 6, no. 1, p. 29785, 2016. <a href="https://doi.org/DOI_HERE">doi</a></li>
-  <li>D. Cruz, R. Fournier, F. Gremion, A. Jeannerot, K. Komagata, T. Tosic, J. Thiesbrummel, C. L. Chan, N. Macris, M. A. Dupertuis, et al., “Efficient quantum algorithms for GHZ and W states, and implementation on the IBM quantum computer,” <i>Advanced Quantum Technologies</i>, vol. 2, no. 5-6, art. 1900015, Jun. 2019. <a href="https://doi.org/10.1002/qute.201900015">doi</a></li>
+  <li>S. C. Gillespie, A. O. Alvarez, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, B. Ehrler, G. Coletti, and E. C. Garnett, “Intensity-Modulated Photoluminescence Spectroscopy for Revealing Ionic Processes in Halide Perovskites,” <i>ACS Energy Lett.</i>, vol. 10, pp. 3122–3131, 2025. <a href="https://doi.org/10.1021/acsenergylett.5c01102">doi</a></li>
+
+  <li>F. Yang et al., “Minimizing interfacial recombination in 1.8 eV triple-halide perovskites for 27.5 % efficient all-perovskite tandems,” <i>Adv. Mater.</i>, vol. 36, no. 6, art. 2307743, 2024. <a href="https://doi.org/10.1002/adma.202307743">doi</a></li>
+
+  <li>Z. Iqbal et al., “Unveiling the potential of ambient air annealing for highly efficient inorganic CsPbI<sub>3</sub> perovskite solar cells,” <i>J. Am. Chem. Soc.</i>, vol. 146, no. 7, pp. 4642–4651, 2024. <a href="https://doi.org/10.1021/jacs.3c11711">doi</a></li>
+
+  <li>S. Hu, J. Thiesbrummel, J. Pascual, M. Stolterfoht, A. Wakamiya, and H. J. Snaith, “Narrow bandgap metal halide perovskites for all-perovskite tandem photovoltaics,” <i>Chem. Rev.</i>, vol. 124, no. 7, pp. 4079–4123, 2024. <a href="https://doi.org/10.1021/acs.chemrev.3c00667">doi</a></li>
+
+  <li>J. Thiesbrummel et al., “Ion-induced field screening as a dominant factor in perovskite solar cell operational stability,” <i>Nat. Energy</i>, vol. 9, no. 6, pp. 664–676, 2024. <a href="https://doi.org/10.1038/s41560-024-01487-w">doi</a></li>
+
+  <li>S. Shah et al., “Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells,” <i>Adv. Energy Mater.</i>, vol. 14, no. 48, art. 2400720, 2024. <a href="https://doi.org/10.1002/aenm.202400720">doi</a></li>
+
+  <li>J. C. Blakesley et al., “Roadmap on established and emerging photovoltaics for sustainable energy conversion,” <i>J. Phys. Energy</i>, vol. 6, no. 4, art. 041501, 2024. <a href="https://doi.org/10.1088/2515-7655/ad7404">doi</a></li>
+
+  <li>J. Zhu et al., “A donor–acceptor-type hole-selective contact reducing non-radiative recombination losses in both subcells towards efficient all-perovskite tandems,” <i>Nat. Energy</i>, vol. 8, no. 7, pp. 714–724, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
+
+  <li>R. He et al., “Improving interface quality for 1-cm<sup>2</sup> all-perovskite tandem solar cells,” <i>Nature</i>, vol. 618, no. 7963, pp. 80–86, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
+
+  <li>P. Caprioglio et al., “Open-circuit and short-circuit loss management in wide-gap perovskite pin solar cells,” <i>Nat. Commun.</i>, vol. 14, art. 932, 2023. <a href="https://doi.org/10.1038/S41467-023-36141-8">doi</a></li>
+
+  <li>J. Diekmann et al., “Determination of mobile ion densities in halide perovskites via low-frequency capacitance and charge extraction techniques,” <i>J. Phys. Chem. Lett.</i>, vol. 14, no. 18, pp. 4200–4210, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
+
+  <li>F. Yang et al., “Rubidium iodide reduces recombination losses in methylammonium-free tin-lead perovskite solar cells,” <i>Adv. Energy Mater.</i>, vol. 13, no. 19, art. 2204339, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
+
+  <li>J. Warby et al., “Mismatch of quasi–Fermi level splitting and Voc in perovskite solar cells,” <i>Adv. Energy Mater.</i>, vol. 13, no. 48, art. 2303135, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
+
+  <li>M. Stolterfoht et al., “The impact of ion migration on the performance and stability of perovskite-based tandem solar cells,” Fundacio Scito, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
+
+  <li>F. Lang et al., “Potential, Radiation Tolerance and Damage Mechanisms of Perovskite Multijunction-Based Space PV,” in *Proc. MRS Spring Meeting 2023*, Symposium EL15, 2023. <a href="https://doi.org/DOI_HERE">doi</a></li>
+
+  <li>J. Thiesbrummel et al., “Universal current losses in perovskite solar cells due to mobile ions,” <i>Adv. Energy Mater.</i>, vol. 11, no. 34, art. 2101447, 2021. <a href="https://doi.org/10.1002/aenm.202101447">doi</a></li>
+
+  <li>J. Yamagishi et al., “Control of magnetite nanocrystal morphology in magnetotactic bacteria by regulation of mms7 gene expression,” <i>Scientific Reports</i>, vol. 6, art. 29785, 2016. <a href="https://doi.org/DOI_HERE">doi</a></li>
+
+  <li>D. Cruz et al., “Efficient quantum algorithms for GHZ and W states, and implementation on the IBM quantum computer,” <i>Adv. Quantum Technol.</i>, vol. 2, no. 5–6, art. 1900015, Jun. 2019. <a href="https://doi.org/10.1002/qute.201900015">doi</a></li>
 </ol>
 
 
