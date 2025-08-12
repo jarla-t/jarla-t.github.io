@@ -23,3 +23,7 @@ navigation:
     url: /hobbies/
   - title: "Photography"
     url: /photography/
+
+footer:
+  nav: "footer"
+
