@@ -39,7 +39,7 @@ permalink: /cv/
 
 <div class="cv-entry">
   <a href="https://www.unis.no/" target="_blank">
-    <img src="/assets/images/logos/Unis.jpg" alt="UNIS logo">
+    <img src="/assets/images/logos/unis2.jpg" alt="UNIS logo">
   </a>
   <div><strong>Guest Researcher</strong>, University Centre in Svalbard (UNIS) — <em>2023</em></div>
 </div>
