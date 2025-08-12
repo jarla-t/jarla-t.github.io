@@ -7,7 +7,7 @@ permalink: /cv/
 <style>
     /* Make the whole page a bit wider */
   .page__content {
-    max-width: 900px; /* default is ~720px */
+    max-width: 1100px; /* default is ~720px */
     margin: 0 auto;
   }
   .cv-entry {
@@ -32,6 +32,13 @@ permalink: /cv/
 </style>
 
 ## Education
+
+<div class="cv-entry">
+  <a href="https://www.uni-potsdam.de/en/university-of-potsdam/" target="_blank">
+    <img src="/assets/images/logos/potsdam2.png" alt="Uni Potsdam logo">
+  </a>
+  <div><strong>Humboldt Research Fellow</strong>, Potsdam University & Helmholtz Zentrum Berlin — <em>2025</em><br>Understanding and controlling mobile ions in metal halide perovskites.</div>
+</div>
 
 <div class="cv-entry">
   <a href="https://amolf.nl/" target="_blank">
