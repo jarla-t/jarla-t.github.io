@@ -5,12 +5,11 @@ permalink: /research/
 ---
 
 <style>
-  /* Target the main container but exclude header/footer by using more specific selectors */
-  main > .container, 
-  .page-single > .container {
+  main {
     max-width: 1000px !important;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
   }
 </style>
 
