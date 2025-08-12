@@ -4,8 +4,6 @@ title: "Welcome"
 header:
   overlay_image: "https://jarla-t.github.io/assets/images/arctic-banner.jpg"
   overlay_filter: 0.2
-  cta_label: "Contact Me"
-  cta_url: /cv/
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 
