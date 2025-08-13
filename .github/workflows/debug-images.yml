@@ -7,13 +7,22 @@ jobs:
   debug-images:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main site repo
-        uses: actions/checkout@v3  # Only checkout this repo
+      - name: Checkout this repo (main site)
+        uses: actions/checkout@v3
 
-      - name: Clone private images repo manually
+      - name: Test token access
         run: |
-          echo "Cloning private repo..."
-          git clone https://x-access-token:${{ secrets.NEW_IMAGE_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp
-          cd images-temp
-          echo "Listing contents of images-temp:"
-          ls -R
+          echo "Testing token access..."
+          curl -i -H "Authorization: token ${{ secrets.NEW_IMAGE_TOKEN }}" \
+               https://api.github.com/repos/jarla-t/jarla-images || echo "Token test failed"
+
+      - name: Test git ls-remote
+        run: |
+          echo "Testing git access..."
+          git ls-remote https://x-access-token:${{ secrets.NEW_IMAGE_TOKEN }}@github.com/jarla-t/jarla-images.git || echo "git ls-remote failed"
+
+      - name: Clone private repo
+        run: |
+          echo "Trying manual clone..."
+          git clone https://x-access-token:${{ secrets.NEW_IMAGE_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp || echo "git clone failed"
+          ls -R images-temp || echo "No files found"
