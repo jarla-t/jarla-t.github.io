@@ -30,12 +30,12 @@ On this site, you’ll find my research, publications, and CV — but also my pe
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9);">
     <div style="position: absolute; bottom: 0; left: 0; width: 100%; padding: 15px; background: rgba(0,0,0,0.3);">
       <h3 style="margin: 0 0 0.5rem;">Hobbies</h3>
-      <p style="margin: 0;">Arctic exploration, climate change stories, outdoor adventures.</p>
+      <p style="margin: 0;">Arctic exploration, learning languages, outdoor adventures.</p>
     </div>
   </a>
 
   <a href="/photography/" style="flex: 1 1 300px; position: relative; color: white; text-decoration: none; border-radius: 8px; overflow: hidden; aspect-ratio: 1 / 1; min-width: 280px;">
-    <img src="https://jarla-t.github.io/assets/images/photography-icon.png" 
+    <img src="https://jarla-t.github.io/assets/images/Ocean_Svalbard.JPG" 
          alt="Photography" 
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9);">
     <div style="position: absolute; bottom: 0; left: 0; width: 100%; padding: 15px; background: rgba(0,0,0,0.3); text-align: center;">
