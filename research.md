@@ -5,13 +5,16 @@ permalink: /research/
 ---
 
 <style>
-/* Only adjust width on the research page */
-.page-research .page__content {
-  max-width: 1050px; /* between normal (~800px) and splash (~full width) */
-  margin: 0 auto;
+/* Force wider layout only on the research page */
+body.page-research .page__inner-wrap,
+body.page-research .page__content {
+  max-width: 1050px !important; /* Adjust this to your preferred in-between size */
 }
-.page-research .page__inner-wrap {
-  max-width: 1050px;
+
+/* Optional: make images scale to new width */
+body.page-research .page__content img {
+  max-width: 100% !important;
+  height: auto !important;
 }
 </style>
 
