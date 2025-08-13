@@ -17,7 +17,7 @@ On this site, you’ll find my research, publications, and CV — but also my pe
   <a href="/research/" style="flex: 1 1 300px; position: relative; color: white; text-decoration: none; border-radius: 8px; overflow: hidden; aspect-ratio: 1 / 1; min-width: 280px;">
     <img src="https://jarla-t.github.io/assets/images/research-icon.png" 
          alt="Research" 
-         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.6);">
+         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9);">
     <div style="position: absolute; bottom: 0; left: 0; width: 100%; padding: 15px; background: rgba(0,0,0,0.3);">
       <h3 style="margin: 0 0 0.5rem;">Research</h3>
       <p style="margin: 0;">Perovskites, solar cells, and climate-related materials science.</p>
@@ -27,7 +27,7 @@ On this site, you’ll find my research, publications, and CV — but also my pe
   <a href="/hobbies/" style="flex: 1 1 300px; position: relative; color: white; text-decoration: none; border-radius: 8px; overflow: hidden; aspect-ratio: 1 / 1; min-width: 280px;">
     <img src="https://jarla-t.github.io/assets/images/hobbies-icon.png" 
          alt="Hobbies" 
-         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.6);">
+         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9);">
     <div style="position: absolute; bottom: 0; left: 0; width: 100%; padding: 15px; background: rgba(0,0,0,0.3);">
       <h3 style="margin: 0 0 0.5rem;">Hobbies</h3>
       <p style="margin: 0;">Arctic exploration, climate change stories, outdoor adventures.</p>
@@ -37,7 +37,7 @@ On this site, you’ll find my research, publications, and CV — but also my pe
   <a href="/photography/" style="flex: 1 1 300px; position: relative; color: white; text-decoration: none; border-radius: 8px; overflow: hidden; aspect-ratio: 1 / 1; min-width: 280px;">
     <img src="https://jarla-t.github.io/assets/images/photography-icon.png" 
          alt="Photography" 
-         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.6);">
+         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9);">
     <div style="position: absolute; bottom: 0; left: 0; width: 100%; padding: 15px; background: rgba(0,0,0,0.3); text-align: center;">
       <h3 style="margin: 0 0 0.5rem;">Photography</h3>
       <p style="margin: 0;">Capturing the beauty of nature and life in the Arctic.</p>
