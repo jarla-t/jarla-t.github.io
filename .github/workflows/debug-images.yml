@@ -1,33 +1,31 @@
 name: Debug Private Images
 
 on:
-  workflow_dispatch:  # allows manual triggering
+  workflow_dispatch:
 
 jobs:
   debug-images:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the main site repo (current repository)
-      - name: Checkout main site repo
-        uses: actions/checkout@v3
-
-      # Checkout the private images repo
-      - name: Checkout private images repo
-        uses: actions/checkout@v3
-        with:
-          repository: jarla-t/jarla-images
-          token: ${{ secrets.NEW_IMAGE_TOKEN }}
-          path: images-temp  # clones into this folder
-
-      # Debug – list contents and git info
-      - name: Debug – verify private repo
+      - name: Debug – show GitHub Actions env
         run: |
-          echo "Listing contents of images-temp:"
+          echo "HOME=$HOME"
+          echo "GITHUB_REPOSITORY=$GITHUB_REPOSITORY"
+          echo "GITHUB_TOKEN secret exists? ${NEW_IMAGE_TOKEN:+yes}"
+
+      - name: Debug – manual clone with token
+        run: |
+          echo "Trying to clone private repo..."
+          git --version
+          git clone https://${{ secrets.NEW_IMAGE_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp || echo "Clone failed"
+          echo "Listing contents of images-temp (if any):"
           ls -R images-temp || echo "No files found"
 
-          echo "Current branch:"
+      - name: Debug – inspect cloned repo
+        if: success()
+        run: |
           cd images-temp
-          git branch
-
+          echo "Branches:"
+          git branch -a
           echo "Remotes:"
           git remote -v
