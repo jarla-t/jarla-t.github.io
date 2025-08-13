@@ -13,7 +13,7 @@ jobs:
       - name: Debug – manual git clone of private images
         run: |
           echo "Trying to clone private repo..."
-          git clone https://${{ secrets.PRIVATE_IMAGES_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp
+          git clone https://${{ secrets.NEW_IMAGE_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp
           echo "Listing contents of images-temp:"
           ls -R images-temp || echo "No files found"
 
