@@ -111,7 +111,7 @@ On this site, you’ll find my research, publications, and CV — but also my pe
                 flex-direction: column; 
                 justify-content: center; 
                 background: rgba(0,0,0,0.3);
-                text-allign: center;">
+                text-align: center;">
       <h3 style="margin: 0 0 0.5rem;">Photography</h3>
       <p style="margin: 0;">Capturing the beauty of nature and life in the Arctic.</p>
     </div>
