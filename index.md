@@ -39,7 +39,7 @@ On this site, you’ll find my research, publications, and CV — but also my pe
                 top: 0; left: 0; 
                 width: 100%; height: 100%; 
                 object-fit: cover; 
-                filter: brightness(0.6);">
+                filter: brightness(0.0);">
 
     <div style="position: relative; 
                 z-index: 1; 
