@@ -1,0 +1,40 @@
+name: Debug Private Images Checkout
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout main repo (just to start)
+      uses: actions/checkout@v3
+
+    - name: Debug – show secret exists
+      run: |
+        if [ -z "${{ secrets.PRIVATE_IMAGES_TOKEN }}" ]; then
+          echo "PRIVATE_IMAGES_TOKEN is missing!"
+        else
+          echo "PRIVATE_IMAGES_TOKEN is set."
+        fi
+
+    - name: Checkout private images repo
+      uses: actions/checkout@v3
+      with:
+        repository: jarla-t/jarla-images
+        token: ${{ secrets.PRIVATE_IMAGES_TOKEN }}
+        path: images-temp
+        ref: main
+
+    - name: Debug – list images-temp contents
+      run: |
+        echo "Contents of images-temp folder:"
+        ls -R images-temp || echo "Folder is empty or not found"
+
+    - name: Debug – check current branch
+      run: |
+        cd images-temp
+        git branch
+        git remote -v
