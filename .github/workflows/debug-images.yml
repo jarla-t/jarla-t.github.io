@@ -14,9 +14,12 @@ jobs:
         run: |
           echo "Trying to clone private repo..."
           git clone https://${{ secrets.NEW_IMAGE_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp
+          
           echo "Listing contents of images-temp:"
           ls -R images-temp || echo "No files found"
 
-        cd images-temp
-        git branch
-        git remote -v
+          cd images-temp
+          echo "Current branch:"
+          git branch
+          echo "Remotes:"
+          git remote -v
