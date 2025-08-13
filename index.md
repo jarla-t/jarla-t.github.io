@@ -2,7 +2,7 @@
 layout: splash
 title: " "
 header:
-  overlay_image: "https://jarla-t.github.io/assets/images/arctic-banner.jpg"
+  overlay_image: "https://jarla-t.github.io/assets/images/Mountains_Svalbard.JPG"
   overlay_filter: 0.2
   overlay_html: |
     <div style="text-align:center;">
