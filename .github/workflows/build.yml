@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -64,4 +66,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add assets/images
           git commit -m "Update images from Google Drive" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/jarla-t/jarla-t.github.io.git
           git push
