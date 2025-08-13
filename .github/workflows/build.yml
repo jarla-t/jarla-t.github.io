@@ -19,9 +19,10 @@ jobs:
 
       - name: Install Python dependencies
         run: pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
-
+        
       - name: Save Google credentials
-        run: echo "${{ secrets.GOOGLE_SERVICE_KEY }}" > gdrive_creds.json
+          run: |
+            echo '${{ secrets.GOOGLE_SERVICE_KEY }}' > gdrive_creds.json
 
       - name: Download images from Google Drive
         run: |
