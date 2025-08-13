@@ -1,40 +1,22 @@
-name: Debug Private Images Checkout
+name: Debug Private Images
+
 on:
-  push:
-    branches:
-      - main  # or your default branch
+  workflow_dispatch:  # allows you to trigger manually
 
 jobs:
-  debug:
+  debug-images:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout main repo (just to start)
-      uses: actions/checkout@v3
+      - name: Checkout main site repo
+        uses: actions/checkout@v3
 
-    - name: Debug – show secret exists
-      run: |
-        if [ -z "${{ secrets.PRIVATE_IMAGES_TOKEN }}" ]; then
-          echo "PRIVATE_IMAGES_TOKEN is missing!"
-        else
-          echo "PRIVATE_IMAGES_TOKEN is set."
-        fi
+      - name: Debug – manual git clone of private images
+        run: |
+          echo "Trying to clone private repo..."
+          git clone https://${{ secrets.PRIVATE_IMAGES_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp
+          echo "Listing contents of images-temp:"
+          ls -R images-temp || echo "No files found"
 
-    - name: Checkout private images repo
-      uses: actions/checkout@v3
-      with:
-        repository: jarla-t/jarla-images
-        token: ${{ secrets.PRIVATE_IMAGES_TOKEN }}
-        path: images-temp
-        ref: main
-
-    - name: Debug – list images-temp contents
-      run: |
-        echo "Contents of images-temp folder:"
-        ls -R images-temp || echo "Folder is empty or not found"
-
-    - name: Debug – check current branch
-      run: |
         cd images-temp
         git branch
         git remote -v
