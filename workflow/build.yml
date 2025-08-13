@@ -1,0 +1,45 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout site repo
+      uses: actions/checkout@v3
+
+    - name: Checkout private images repo
+      uses: actions/checkout@v3
+      with:
+        repository: yourusername/jarla-images
+        token: ${{ secrets.PRIVATE_IMAGES_TOKEN }}
+        path: images-temp
+
+    - name: Copy images into site
+      run: |
+        mkdir -p assets/images
+        cp -r images-temp/* assets/images/
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.2
+
+    - name: Install dependencies
+      run: |
+        gem install bundler
+        bundle install
+
+    - name: Build site
+      run: bundle exec jekyll build
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v6
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
