@@ -8,7 +8,7 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
 
-<br style="line-height: 3em;">
+<!--<br style="line-height: 3em;">-->
 Welcome! I’m a scientist fascinated by how technology and nature intersect.  
 On this site, you’ll find my research, publications, and CV — but also my personal projects and photography.
 
