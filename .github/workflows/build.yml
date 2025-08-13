@@ -21,7 +21,7 @@ jobs:
         run: pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
       - name: Save Google credentials
-        run: echo "${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}" > gdrive_creds.json
+        run: echo "${{ secrets.GOOGLE_SERVICE_KEY }}" > gdrive_creds.json
 
       - name: Download images from Google Drive
         run: |
@@ -34,7 +34,7 @@ jobs:
           creds = service_account.Credentials.from_service_account_file('gdrive_creds.json')
           drive_service = build('drive', 'v3', credentials=creds)
 
-          FOLDER_ID = 'YOUR_FOLDER_ID_HERE'
+          FOLDER_ID = '18YCuz8VPMy4doL1z0GS9ANmjQQOkmafb'
 
           results = drive_service.files().list(
               q=f"'{FOLDER_ID}' in parents",
