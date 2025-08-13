@@ -63,13 +63,20 @@ jobs:
         with:
           ruby-version: 3.2
 
-      - name: Install Bundler and dependencies
+      # Only install bundler if Gemfile exists
+      - name: Install Bundler and dependencies (if Gemfile exists)
+        if: exists('Gemfile')
         run: |
           gem install bundler
           bundle install
 
       - name: Build site
-        run: bundle exec jekyll build
+        run: |
+          if [ -f Gemfile ]; then
+            bundle exec jekyll build
+          else
+            jekyll build
+          fi
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
