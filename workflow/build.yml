@@ -16,7 +16,7 @@ jobs:
     - name: Checkout private images repo
       uses: actions/checkout@v3
       with:
-        repository: yourusername/jarla-images
+        repository: jarla-t/jarla-images
         token: ${{ secrets.PRIVATE_IMAGES_TOKEN }}
         path: images-temp
 
