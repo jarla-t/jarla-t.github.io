@@ -58,3 +58,13 @@ jobs:
               fh.close()
           EOF
 
+      - name: Commit and push updated images
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/images/
+          git diff --quiet && echo "No changes to commit" || git commit -m "Update images from Google Drive"
+          git push
+        env:
+          # This token allows the workflow to push to the repo
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
