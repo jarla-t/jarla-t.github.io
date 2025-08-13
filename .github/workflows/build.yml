@@ -58,29 +58,19 @@ jobs:
               fh.close()
           EOF
 
-      - name: Set up Ruby for Jekyll
+      - name: Set up Ruby and install Jekyll
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2
 
-      - name: Install Bundler and dependencies (if Gemfile exists)
-        run: |
-          if [ -f Gemfile ]; then
-            gem install bundler
-            bundle install
-          fi
+      - name: Install Jekyll
+        run: gem install jekyll
 
       - name: Build site
-        run: |
-          if [ -f Gemfile ]; then
-            bundle exec jekyll build
-          else
-            jekyll build
-          fi
+        run: jekyll build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-
