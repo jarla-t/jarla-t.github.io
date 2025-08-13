@@ -7,25 +7,16 @@ jobs:
   debug-images:
     runs-on: ubuntu-latest
     steps:
-      - name: Debug – show GitHub Actions env
-        run: |
-          echo "HOME=$HOME"
-          echo "GITHUB_REPOSITORY=$GITHUB_REPOSITORY"
-          echo "GITHUB_TOKEN secret exists? ${NEW_IMAGE_TOKEN:+yes}"
+      - name: Checkout main site repo
+        uses: actions/checkout@v3
 
-      - name: Debug – manual clone with token
+      - name: Clone private images repo manually
         run: |
-          echo "Trying to clone private repo..."
-          git --version
-          git clone https://${{ secrets.NEW_IMAGE_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp || echo "Clone failed"
-          echo "Listing contents of images-temp (if any):"
-          ls -R images-temp || echo "No files found"
-
-      - name: Debug – inspect cloned repo
-        if: success()
-        run: |
+          echo "Cloning private repo..."
+          git clone https://x-access-token:${{ secrets.NEW_IMAGE_TOKEN }}@github.com/jarla-t/jarla-images.git images-temp
           cd images-temp
-          echo "Branches:"
-          git branch -a
-          echo "Remotes:"
-          git remote -v
+          echo "Switching to main branch explicitly..."
+          git fetch origin main
+          git checkout main
+          echo "Listing contents of images-temp:"
+          ls -R
