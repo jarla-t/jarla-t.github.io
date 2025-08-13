@@ -1,10 +1,19 @@
 ---
-layout: splash
+layout: single
 title: "Research"
 permalink: /research/
 ---
 
-
+<style>
+/* Only adjust width on the research page */
+.page-research .page__content {
+  max-width: 1050px; /* between normal (~800px) and splash (~full width) */
+  margin: 0 auto;
+}
+.page-research .page__inner-wrap {
+  max-width: 1050px;
+}
+</style>
 
 My research focuses on perovskite solar cells and climate-related materials science.
 
