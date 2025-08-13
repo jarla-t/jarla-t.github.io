@@ -25,7 +25,7 @@ On this site, you’ll find my research, publications, and CV — but also my pe
   </a>
 
   <a href="/hobbies/" style="flex: 1 1 300px; position: relative; color: white; text-decoration: none; border-radius: 8px; overflow: hidden; aspect-ratio: 1 / 1; min-width: 280px;">
-    <img src="https://jarla-t.github.io/assets/images/hobbies-icon.png" 
+    <img src="https://jarla-t.github.io/assets/images/Mountains_Svalbard2.JPG" 
          alt="Hobbies" 
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9);">
     <div style="position: absolute; bottom: 0; left: 0; width: 100%; padding: 15px; background: rgba(0,0,0,0.3);">
