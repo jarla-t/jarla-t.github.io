@@ -4,6 +4,15 @@ title: " "
 header:
   overlay_image: "https://jarla-t.github.io/assets/images/arctic-banner.jpg"
   overlay_filter: 0.2
+  overlay_html: |
+    <div style="text-align:center;">
+      <h1 style="font-size:3rem; margin-bottom:0.5rem; color:white; text-shadow: 2px 2px 5px rgba(0,0,0,0.5);">
+        Welcome
+      </h1>
+      <p style="font-size:1.5rem; color:white; text-shadow: 2px 2px 5px rgba(0,0,0,0.5);">
+        Scientist • Adventurer • Climate Enthusiast
+      </p>
+    </div>
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
