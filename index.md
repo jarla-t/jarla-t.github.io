@@ -10,7 +10,7 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 <!--<br style="line-height: 3em;">-->
 Welcome! I’m a scientist fascinated by how technology and nature intersect.  
-On this site, you’ll find my research, publications, and CV — but also my personal projects and photography.
+On this site, you’ll find my research, publications, and <a href="https://jarla-t.github.io/cv/" style="text-decoration: underline; color: inherit;">CV</a> — but also my personal projects and photography.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 2rem;">
 
