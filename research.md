@@ -1,22 +1,10 @@
 ---
-layout: single
+layout: single-research
 title: "Research"
 permalink: /research/
 ---
 
-<style>
-/* Force wider layout only on the research page */
-body.page-research .page__inner-wrap,
-body.page-research .page__content {
-  max-width: 1050px !important; /* Adjust this to your preferred in-between size */
-}
 
-/* Optional: make images scale to new width */
-body.page-research .page__content img {
-  max-width: 100% !important;
-  height: auto !important;
-}
-</style>
 
 My research focuses on perovskite solar cells and climate-related materials science.
 
