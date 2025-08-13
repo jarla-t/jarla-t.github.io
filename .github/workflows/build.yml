@@ -1,4 +1,4 @@
-name: Build Site with Google Drive Images
+name: Update Google Drive Images
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build:
+  fetch-images:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -19,10 +19,10 @@ jobs:
 
       - name: Install Python dependencies
         run: pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
-        
+
       - name: Save Google credentials
         run: |
-            echo '${{ secrets.GOOGLE_SERVICE_KEY }}' > gdrive_creds.json
+          echo '${{ secrets.GOOGLE_SERVICE_KEY }}' > gdrive_creds.json
 
       - name: Download images from Google Drive
         run: |
@@ -58,19 +58,10 @@ jobs:
               fh.close()
           EOF
 
-      - name: Set up Ruby and install Jekyll
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.2
-
-      - name: Install Jekyll
-        run: gem install jekyll
-
-      - name: Build site
-        run: jekyll build
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+      - name: Commit and push updated images
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/images
+          git commit -m "Update images from Google Drive" || echo "No changes to commit"
+          git push
