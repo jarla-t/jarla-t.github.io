@@ -1,0 +1,77 @@
+name: Build Site with Google Drive Images
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install Python dependencies
+        run: pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+      - name: Save Google credentials
+        run: echo "${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}" > gdrive_creds.json
+
+      - name: Download images from Google Drive
+        run: |
+          python - <<'EOF'
+          from google.oauth2 import service_account
+          from googleapiclient.discovery import build
+          import googleapiclient.http
+          import os
+
+          creds = service_account.Credentials.from_service_account_file('gdrive_creds.json')
+          drive_service = build('drive', 'v3', credentials=creds)
+
+          FOLDER_ID = 'YOUR_FOLDER_ID_HERE'
+
+          results = drive_service.files().list(
+              q=f"'{FOLDER_ID}' in parents",
+              pageSize=100,
+              fields="files(id, name, mimeType)"
+          ).execute()
+
+          files = results.get('files', [])
+          os.makedirs('assets/images', exist_ok=True)
+
+          for file in files:
+              file_id = file['id']
+              file_name = file['name']
+              request = drive_service.files().get_media(fileId=file_id)
+              fh = open(f'assets/images/{file_name}', 'wb')
+              downloader = googleapiclient.http.MediaIoBaseDownload(fh, request)
+              done = False
+              while not done:
+                  status, done = downloader.next_chunk()
+              fh.close()
+          EOF
+
+      - name: Set up Ruby for Jekyll
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2
+
+      - name: Install Bundler and dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
