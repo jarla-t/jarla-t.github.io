@@ -4,15 +4,6 @@ title: " "
 header:
   overlay_image: "https://jarla-t.github.io/assets/images/Mountains_Svalbard.JPG"
   overlay_filter: 0.2
-  <!--overlay_html: |
-    <div style="text-align:center;">
-      <h1 style="font-size:3rem; margin-bottom:0.5rem; color:white; text-shadow: 2px 2px 5px rgba(0,0,0,0.5);">
-        Welcome
-      </h1>
-      <p style="font-size:1.5rem; color:white; text-shadow: 2px 2px 5px rgba(0,0,0,0.5);">
-        Scientist • Adventurer • Climate Enthusiast
-      </p>
-    </div>-->
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
@@ -39,7 +30,7 @@ On this site, you’ll find my research, publications, and CV — but also my pe
                 top: 0; left: 0; 
                 width: 100%; height: 100%; 
                 object-fit: cover; 
-                filter: brightness(0.0);">
+                filter: brightness(0.6);">
 
     <div style="position: relative; 
                 z-index: 1; 
