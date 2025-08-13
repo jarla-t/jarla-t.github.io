@@ -63,12 +63,12 @@ jobs:
         with:
           ruby-version: 3.2
 
-      # Only install bundler if Gemfile exists
       - name: Install Bundler and dependencies (if Gemfile exists)
-        if: exists('Gemfile')
         run: |
-          gem install bundler
-          bundle install
+          if [ -f Gemfile ]; then
+            gem install bundler
+            bundle install
+          fi
 
       - name: Build site
         run: |
@@ -83,3 +83,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
+
