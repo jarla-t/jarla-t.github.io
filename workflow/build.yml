@@ -43,3 +43,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
+
+    - name: List images in build
+      run: ls -l assets/images
+
