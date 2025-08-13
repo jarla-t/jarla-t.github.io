@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v3
       with:
         repository: jarla-t/jarla-images
-        token: ${{ secrets.PRIVATE_IMAGES_TOKEN }}
+        token: ${{ secrets.NEW_IMAGE_TOKEN }}
         path: images-temp
 
     - name: Copy images into site
