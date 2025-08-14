@@ -8,9 +8,20 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
 
-<!--<br style="line-height: 3em;">-->
+<div style="display: flex; align-items: center; gap: 1rem; margin-top: 2rem;">
+  <img src="https://jarla-t.github.io/assets/images/Oxfordpicture.jpg" 
+       alt="Jarla Thiesbrummel" 
+       style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%; border: 2px solid white;">
+  
+  <p style="margin: 0;">
+    Welcome! I’m a scientist fascinated by how technology and nature intersect.  
+    On this site, you’ll find my research, publications, and <a href="https://jarla-t.github.io/cv/" style="text-decoration: underline; color: inherit;">CV</a> — but also my personal projects and photography.
+  </p>
+</div>
+
+<!--<br style="line-height: 3em;">
 Welcome! I’m a scientist fascinated by how technology and nature intersect.  
-On this site, you’ll find my research, publications, and <a href="https://jarla-t.github.io/cv/" style="text-decoration: underline; color: inherit;">CV</a> — but also my personal projects and photography.
+On this site, you’ll find my research, publications, and <a href="https://jarla-t.github.io/cv/" style="text-decoration: underline; color: inherit;">CV</a> — but also my personal projects and photography.-->
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 2rem;">
 
