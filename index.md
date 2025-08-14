@@ -23,38 +23,42 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 <div style="display: flex; align-items: center; gap: 1rem; margin-top: 2rem;">
 
   <!-- Image with overlay -->
+<div style="
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0; /* prevents shrinking on mobile */
+  border: 2px solid white;
+">
+  <img
+    src="https://jarla-t.github.io/assets/images/Oxfordpicture.jpg"
+    alt="Jarla Thiesbrummel"
+    draggable="false"
+    oncontextmenu="return false;"
+    style="
+      width: 100%;
+      height: auto;   /* keep aspect ratio */
+      max-height: 100%;
+      object-fit: cover;
+      display: block;
+    "
+  >
+  <!-- Transparent overlay -->
   <div style="
-    position: relative;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    overflow: hidden;
-    border: 2px solid white;
-  ">
-    <img
-      src="https://jarla-t.github.io/assets/images/Oxfordpicture.jpg"
-      alt="Jarla Thiesbrummel"
-      draggable="false"
-      oncontextmenu="return false;"
-      style="
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        display: block;
-      "
-    >
-    <!-- Transparent overlay -->
-    <div style="
-      position: absolute;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-      background: rgba(0,0,0,0); /* fully transparent */
-      z-index: 2;
-      pointer-events: auto;
-      cursor: not-allowed;
-      border-radius: 50%; /* <-- make overlay circular too */
-    " oncontextmenu="return false;"></div>
-  </div>
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0);
+    z-index: 2;
+    pointer-events: auto;
+    cursor: not-allowed;
+    border-radius: 50%; /* ensures overlay stays circular */
+  " oncontextmenu="return false;"></div>
+</div>
+
 
   <p style="margin: 0;">
     Welcome! I’m a scientist fascinated by how technology and nature intersect.
