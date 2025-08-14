@@ -8,7 +8,6 @@ I enjoy Arctic exploration and aim to spread awareness about climate change.
 
 <div class="image-overlay">
   <img src="/assets/images/Mountains_Svalbard2.JPG" alt="Trollsteinen">
-  <div class="overlay-text">© Jarla Thiesbrummel. Do Not Download</div>
 </div>
 
 <style>
