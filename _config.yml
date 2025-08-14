@@ -3,7 +3,8 @@ email: "your.email@example.com"
 description: "A minimal mistakes based academic + hobby website"
 baseurl: ""
 url: "https://jarla-t.github.io"
-repository: "https://github.com/jarla-t/jarla-t.github.io"
+#repository: "https://github.com/jarla-t/jarla-t.github.io"
+repository: "jarla-t/jarla-t.github.io"
 
 # Use the remote_theme plugin to load Minimal Mistakes from GitHub
 remote_theme: mmistakes/minimal-mistakes@3.4.8
