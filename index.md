@@ -40,6 +40,7 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
       z-index: 2;
       pointer-events: auto;
       cursor: not-allowed;
+      border-radius: 50%; /* <-- make overlay circular too */
     " oncontextmenu="return false;"></div>
   </div>
 
@@ -50,6 +51,7 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
     — but also my personal projects and photography.
   </p>
 </div>
+
 
 
 
