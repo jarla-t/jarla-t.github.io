@@ -7,6 +7,18 @@ header:
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
+<style>
+/* Add extra overlay on splash header */
+.splash-header::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3); /* adjust color/opacity */
+  pointer-events: none;
+}
+</style>
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-top: 2rem;">
 
