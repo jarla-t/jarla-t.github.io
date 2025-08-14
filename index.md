@@ -8,50 +8,48 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
 <style>
-/* Transparent overlay to block clicks on splash header */
+/* Ensure splash header is positioned relative */
 .splash-header {
   position: relative;
 }
 
-/* Full transparent overlay that catches clicks/taps */
+/* Overlay that covers the entire header */
 .splash-header::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0); /* fully transparent */
-  z-index: 1000;             /* above everything */
-  pointer-events: auto;       /* catch clicks and taps */
-  cursor: not-allowed;
-}
-
-/* Lock icon in top-right corner */
-.splash-header::after {
-  content: "🔒";
+  content: "🔒"; /* lock icon */
   position: absolute;
   top: 10px;
   right: 10px;
   font-size: 1.5rem;
-  color: rgba(255,255,255,0.7);
-  z-index: 1001; /* above overlay */
+  color: rgba(255, 255, 255, 0.7);
+  z-index: 1001;
   pointer-events: none; /* allow overlay to catch clicks */
+}
+
+.splash-header::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0); /* fully transparent */
+  z-index: 1000;
+  pointer-events: auto; /* block interactions */
+  cursor: not-allowed;
 }
 </style>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const splash = document.querySelector(".splash-header");
-  if (splash) {
-    // Block right-click
-    splash.addEventListener("contextmenu", e => e.preventDefault());
-    // Block drag
-    splash.addEventListener("dragstart", e => e.preventDefault());
-    // Block tap-and-hold on mobile
-    splash.addEventListener("touchstart", e => e.preventDefault());
+  const overlay = document.querySelector(".splash-header::after");
+  // fallback if pseudo-element can't be targeted directly
+  const header = document.querySelector(".splash-header");
+  if (header) {
+    header.addEventListener("contextmenu", e => e.preventDefault());
+    header.addEventListener("dragstart", e => e.preventDefault());
+    header.addEventListener("touchstart", e => e.preventDefault());
   }
 });
 </script>
+
 
 
 
