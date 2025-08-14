@@ -1,46 +1,65 @@
 ---
 layout: splash
 title: " "
-header:
-  overlay_image: "https://jarla-t.github.io/assets/images/Mountains_Svalbard.JPG"
-  overlay_filter: 0.2
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
 <style>
-/* Add a real overlay image div on top of the splash header */
-.splash-header {
+/* Splash header container */
+.custom-splash {
   position: relative;
+  width: 100%;
+  height: 60vh; /* adjust height as needed */
   overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000; /* fallback color */
 }
 
-/* Transparent div to block clicks */
-.splash-overlay {
+/* Real image taking full space */
+.custom-splash img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  pointer-events: none; /* image itself won't catch clicks */
+  user-select: none;
+}
+
+/* Overlay on top to block interactions */
+.custom-splash .overlay {
   position: absolute;
   top: 0; left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0,0,0,0.3); /* optional semi-transparent */
-  z-index: 10;
-  pointer-events: auto;
+  background: rgba(0,0,0,0.2); /* adjust opacity */
+  pointer-events: auto; /* catch clicks */
   cursor: not-allowed;
+  z-index: 10;
 }
 </style>
 
-<div class="splash-header">
-  <!-- Optional: duplicate image as <img> for overlay if needed -->
-  <div class="splash-overlay" oncontextmenu="return false;" ondragstart="return false;"></div>
+<div class="custom-splash">
+  <img src="https://jarla-t.github.io/assets/images/Mountains_Svalbard.JPG" alt="Mountains Svalbard">
+  <div class="overlay" oncontextmenu="return false;" ondragstart="return false;"></div>
+  <div class="splash-text" style="position: absolute; z-index: 20; color: white; text-align: center;">
+    <h1 style="margin:0;"> </h1>
+    <p>Scientist • Adventurer • Climate Enthusiast</p>
+  </div>
 </div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const overlay = document.querySelector(".splash-overlay");
-  if(overlay) {
-    overlay.oncontextmenu = () => false; // blocks right-click
-    overlay.ondragstart = () => false;   // blocks dragging
+  const overlay = document.querySelector(".custom-splash .overlay");
+  if(overlay){
+    overlay.oncontextmenu = () => false; // block right-click
+    overlay.ondragstart = () => false;   // block drag
+    overlay.ontouchstart = (e) => e.preventDefault(); // block tap-and-hold on mobile
   }
 });
 </script>
+
 
 
 
