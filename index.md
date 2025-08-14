@@ -7,45 +7,40 @@ header:
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
-<style>
-/* Ensure splash header is positioned relative */
-.splash-header {
-  position: relative;
-}
-
-/* Overlay that covers the entire header */
-.splash-header::before {
-  content: "🔒"; /* lock icon */
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 1.5rem;
-  color: rgba(255, 255, 255, 0.7);
-  z-index: 1001;
-  pointer-events: none; /* allow overlay to catch clicks */
-}
-
-.splash-header::after {
-  content: "";
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: rgba(0, 0, 0, 0); /* fully transparent */
-  z-index: 1000;
-  pointer-events: auto; /* block interactions */
-  cursor: not-allowed;
-}
-</style>
-
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const overlay = document.querySelector(".splash-header::after");
-  // fallback if pseudo-element can't be targeted directly
   const header = document.querySelector(".splash-header");
   if (header) {
-    header.addEventListener("contextmenu", e => e.preventDefault());
-    header.addEventListener("dragstart", e => e.preventDefault());
-    header.addEventListener("touchstart", e => e.preventDefault());
+    // create overlay div
+    const overlay = document.createElement("div");
+    overlay.style.position = "absolute";
+    overlay.style.top = 0;
+    overlay.style.left = 0;
+    overlay.style.width = "100%";
+    overlay.style.height = "100%";
+    overlay.style.cursor = "not-allowed";
+    overlay.style.zIndex = 1000;
+    overlay.style.background = "rgba(0,0,0,0)"; // fully transparent
+    overlay.style.pointerEvents = "auto";
+
+    // add lock icon
+    const lock = document.createElement("div");
+    lock.textContent = "🔒";
+    lock.style.position = "absolute";
+    lock.style.top = "10px";
+    lock.style.right = "10px";
+    lock.style.fontSize = "2rem";
+    lock.style.color = "rgba(255,255,255,0.7)";
+    lock.style.pointerEvents = "none";
+
+    overlay.appendChild(lock);
+    header.style.position = "relative"; // make sure overlay positions correctly
+    header.appendChild(overlay);
+
+    // block right-click and drag
+    overlay.addEventListener("contextmenu", e => e.preventDefault());
+    overlay.addEventListener("dragstart", e => e.preventDefault());
+    overlay.addEventListener("touchstart", e => e.preventDefault());
   }
 });
 </script>
