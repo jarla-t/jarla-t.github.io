@@ -16,9 +16,22 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.3); /* adjust color/opacity */
-  pointer-events: none;
+  pointer-events: auto;   /* BLOCK clicks/dragging */
+  cursor: not-allowed;    /* show "cannot interact" cursor */
 }
 </style>
+
+<script>
+  // Prevent right-click on splash image
+  document.addEventListener("DOMContentLoaded", function() {
+    const splash = document.querySelector(".splash-header");
+    if(splash) {
+      splash.oncontextmenu = function() { return false; };
+      splash.ondragstart = function() { return false; };
+    }
+  });
+</script>
+
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-top: 2rem;">
 
