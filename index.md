@@ -1,6 +1,9 @@
 ---
 layout: splash
 title: " "
+header:
+  overlay_image: "https://jarla-t.github.io/assets/images/Mountains_Svalbard.JPG"
+  overlay_filter: 0.2
 excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
