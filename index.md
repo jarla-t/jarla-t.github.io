@@ -8,33 +8,36 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
 <style>
-/* Make sure splash header is positioned relative */
+/* Add a real overlay image div on top of the splash header */
 .splash-header {
   position: relative;
   overflow: hidden;
 }
 
-/* Overlay on top of splash image */
-.splash-header::after {
-  content: "";
+/* Transparent div to block clicks */
+.splash-overlay {
   position: absolute;
   top: 0; left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0,0,0,0.3); /* semi-transparent overlay */
-  pointer-events: auto;   /* block interactions */
-  cursor: not-allowed;    /* show blocked cursor */
+  background: rgba(0,0,0,0.3); /* optional semi-transparent */
   z-index: 10;
+  pointer-events: auto;
+  cursor: not-allowed;
 }
 </style>
 
+<div class="splash-header">
+  <!-- Optional: duplicate image as <img> for overlay if needed -->
+  <div class="splash-overlay" oncontextmenu="return false;" ondragstart="return false;"></div>
+</div>
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const splash = document.querySelector(".splash-header");
-  if (splash) {
-    // Block right-click and drag on the whole header
-    splash.oncontextmenu = function() { return false; };
-    splash.ondragstart = function() { return false; };
+  const overlay = document.querySelector(".splash-overlay");
+  if(overlay) {
+    overlay.oncontextmenu = () => false; // blocks right-click
+    overlay.ondragstart = () => false;   // blocks dragging
   }
 });
 </script>
