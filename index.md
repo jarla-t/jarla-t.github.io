@@ -8,29 +8,37 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
 <style>
-/* Add extra overlay on splash header */
+/* Make sure splash header is positioned relative */
+.splash-header {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Overlay on top of splash image */
 .splash-header::after {
   content: "";
   position: absolute;
   top: 0; left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.3); /* adjust color/opacity */
-  pointer-events: auto;   /* BLOCK clicks/dragging */
-  cursor: not-allowed;    /* show "cannot interact" cursor */
+  background: rgba(0,0,0,0.3); /* semi-transparent overlay */
+  pointer-events: auto;   /* block interactions */
+  cursor: not-allowed;    /* show blocked cursor */
+  z-index: 10;
 }
 </style>
 
 <script>
-  // Prevent right-click on splash image
-  document.addEventListener("DOMContentLoaded", function() {
-    const splash = document.querySelector(".splash-header");
-    if(splash) {
-      splash.oncontextmenu = function() { return false; };
-      splash.ondragstart = function() { return false; };
-    }
-  });
+document.addEventListener("DOMContentLoaded", function() {
+  const splash = document.querySelector(".splash-header");
+  if (splash) {
+    // Block right-click and drag on the whole header
+    splash.oncontextmenu = function() { return false; };
+    splash.ondragstart = function() { return false; };
+  }
+});
 </script>
+
 
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-top: 2rem;">
