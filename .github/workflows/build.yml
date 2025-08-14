@@ -1,4 +1,4 @@
-name: Build Site with Google Drive Images
+name: Build & Deploy with Google Drive Images
 
 on:
   push:
@@ -6,8 +6,10 @@ on:
       - main
 
 permissions:
-  contents: write
-  
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +17,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      # --- GOOGLE DRIVE FETCH ---
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -22,10 +25,10 @@ jobs:
 
       - name: Install Python dependencies
         run: pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
-        
+
       - name: Save Google credentials
         run: |
-            echo '${{ secrets.GOOGLE_SERVICE_KEY }}' > gdrive_creds.json
+          echo '${{ secrets.GOOGLE_SERVICE_KEY }}' > gdrive_creds.json
 
       - name: Download images from Google Drive
         run: |
@@ -53,21 +56,38 @@ jobs:
               file_id = file['id']
               file_name = file['name']
               request = drive_service.files().get_media(fileId=file_id)
-              fh = open(f'assets/images/{file_name}', 'wb')
-              downloader = googleapiclient.http.MediaIoBaseDownload(fh, request)
-              done = False
-              while not done:
-                  status, done = downloader.next_chunk()
-              fh.close()
+              with open(f'assets/images/{file_name}', 'wb') as fh:
+                  downloader = googleapiclient.http.MediaIoBaseDownload(fh, request)
+                  done = False
+                  while not done:
+                      status, done = downloader.next_chunk()
           EOF
 
-      - name: Commit and push updated images
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add assets/images/
-          git diff --quiet && echo "No changes to commit" || git commit -m "Update images from Google Drive"
-          git push
-        env:
-          # This token allows the workflow to push to the repo
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # --- JEKYLL BUILD ---
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --trace
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
