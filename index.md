@@ -8,11 +8,12 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 ---
 <style>
-/* Transparent overlay to block casual clicks on splash header */
+/* Transparent overlay to block clicks on splash header */
 .splash-header {
   position: relative;
 }
 
+/* Full transparent overlay that catches clicks/taps */
 .splash-header::before {
   content: "";
   position: absolute;
@@ -20,9 +21,21 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
   width: 100%;
   height: 100%;
   background: rgba(0,0,0,0); /* fully transparent */
-  z-index: 1000;             /* high enough to be above everything */
+  z-index: 1000;             /* above everything */
   pointer-events: auto;       /* catch clicks and taps */
   cursor: not-allowed;
+}
+
+/* Lock icon in top-right corner */
+.splash-header::after {
+  content: "🔒";
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 1.5rem;
+  color: rgba(255,255,255,0.7);
+  z-index: 1001; /* above overlay */
+  pointer-events: none; /* allow overlay to catch clicks */
 }
 </style>
 
@@ -39,8 +52,6 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 </script>
-
-
 
 
 
