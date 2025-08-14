@@ -10,35 +10,37 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-top: 2rem;">
 
-  <!-- Image with overlay protection -->
-  <div style="position: relative; width: 100px; height: 100px;">
+  <!-- Image with overlay -->
+  <div style="
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px solid white;
+  ">
     <img
       src="https://jarla-t.github.io/assets/images/Oxfordpicture.jpg"
       alt="Jarla Thiesbrummel"
       draggable="false"
+      oncontextmenu="return false;"
       style="
         width: 100%;
         height: 100%;
         object-fit: cover;
         display: block;
-        border-radius: 50%;
-        border: 2px solid white;
       "
     >
-    <!-- Transparent overlay that intercepts right-click/long-press -->
-    <span
-      aria-hidden="true"
-      oncontextmenu="return false;"
-      style="
-        position: absolute;
-        inset: 0;                 /* top:0; right:0; bottom:0; left:0; */
-        border-radius: 50%;
-        background: rgba(0,0,0,0);/* for Safari, you can use 0.001 if needed */
-        z-index: 1;
-        pointer-events: auto;     /* capture clicks/right-clicks */
-        cursor: not-allowed;      /* optional visual hint */
-      "
-    ></span>
+    <!-- Transparent overlay -->
+    <div style="
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: rgba(0,0,0,0); /* fully transparent */
+      z-index: 2;
+      pointer-events: auto;
+      cursor: not-allowed;
+    " oncontextmenu="return false;"></div>
   </div>
 
   <p style="margin: 0;">
@@ -48,6 +50,7 @@ excerpt: "Scientist • Adventurer • Climate Enthusiast"
     — but also my personal projects and photography.
   </p>
 </div>
+
 
 
 
