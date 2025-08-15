@@ -107,7 +107,7 @@ On this site, you’ll find my research, publications, and <a href="https://jarl
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 2rem;">
 
   <a href="/research/" style="flex: 1 1 300px; position: relative; color: white; text-decoration: none; border-radius: 8px; overflow: hidden; aspect-ratio: 1 / 1; min-width: 280px;">
-    <img src="https://jarla-t.github.io/assets/images/Cover2.JPG" 
+    <img src="https://jarla-t.github.io/assets/images/research-icon.png" 
          alt="Research" 
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9);">
     <div style="position: absolute; bottom: 0; left: 0; width: 100%; padding: 15px; background: rgba(0,0,0,0.3);">
