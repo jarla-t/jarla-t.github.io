@@ -41,7 +41,7 @@ My projects combine experimental and computational approaches to understand and 
 </div>
 
 <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #fafafa;">
-<strong>Improving interface quality for 1-cm2 all-perovskite tandem solar cells</strong><br>
+<strong>Improving interface quality for 1-cm<sup>2</sup> all-perovskite tandem solar cells</strong><br>
 <em>Nature</em>, 2023<br>
 <a href="https://doi.org/10.1038/s41586-023-05992-y" target="_blank">doi:10.1038/s41586-023-05992-y</a>
 </div>
