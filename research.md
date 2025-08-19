@@ -29,7 +29,7 @@ My projects combine experimental and computational approaches to understand and 
 </div>
 
 <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #fafafa;">
-<strong>Ion-induced ield creening s a ominant actor in erovskite solar cell operational stability</strong><br>
+<strong>Ion-induced field screening as a dominant factor in perovskite solar cell operational stability</strong><br>
 <em>Nature Energy</em>, 2024<br>
 <a href="https://doi.org/10.1038/s41560-024-01487-w" target="_blank">doi:10.1038/s41560-024-01487-w</a>
 </div>
