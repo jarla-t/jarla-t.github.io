@@ -35,7 +35,7 @@ My projects combine experimental and computational approaches to understand and 
 </div>
 
 <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #fafafa;">
-<strong>Understanding and minimizing VOC losses in all-perovskite tandem photovoltaics</strong><br>
+<strong>Understanding and minimizing V<sub>OC</sub> losses in all-perovskite tandem photovoltaics</strong><br>
 <em>Advanced Energy Materials</em>, 2022<br>
 <a href="https://doi.org/10.1002/aenm.202202674" target="_blank">doi.org/10.1002/aenm.202202674</a>
 </div>
