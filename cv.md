@@ -63,12 +63,12 @@ permalink: /cv/
 </div>-->
 
 
-<!--<div class="cv-entry">
+<div class="cv-entry">
   <a href="https://www.uni-potsdam.de/en/university-of-potsdam/" target="_blank">
     <img src="/assets/images/logos/potsdam2.png" alt="Uni Potsdam logo">
   </a>
   <div><strong>Humboldt Research Fellow</strong>, Potsdam University & Helmholtz Zentrum Berlin — <em>2025</em><br>Understanding and controlling mobile ions in metal halide perovskites.</div>
-</div>-->
+</div>
 
 <div class="cv-entry">
   <a href="https://amolf.nl/" target="_blank">
