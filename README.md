@@ -1,7 +1,13 @@
-# jarla-t.github.io
-My personal website
+# My Personal Website
+
+This repository contains the source code for my personal website:  
+👉 [https://jarla-t.github.io](https://jarla-t.github.io)
+
+## About
+This is where I experiment with web design and host my personal pages.  
 
 ## License
+- **Code**: MIT License (see [LICENSE](./LICENSE))  
+- **All other content (text, images, design)**: © 2025 Jarla Thiesbrummel — All Rights Reserved  
 
-- **Code**: MIT License  
-- **All other content (text, images, design)**: All Rights Reserved  
+That means you can reuse or adapt the code freely (MIT), but you may **not** copy or reuse my written content, images, or design without permission.
