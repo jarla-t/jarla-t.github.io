@@ -1,2 +1,7 @@
 # jarla-t.github.io
-Currently under construction and being tested.
+My personal website
+
+## License
+
+- **Code**: MIT License  
+- **All other content (text, images, design)**: All Rights Reserved  
