@@ -1,7 +1,7 @@
 # My Personal Website
 
 This repository contains the source code for my personal website:  
-👉 [https://jarla-t.github.io](https://jarla-t.github.io)
+[https://jarla-t.github.io](https://jarla-t.github.io)
 
 ## About
 This is where I experiment with web design and host my personal pages.  
