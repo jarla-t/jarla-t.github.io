@@ -10,7 +10,7 @@ permalink: /photography/
     <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
-    <img src="/assets/images/gallery/Mountains_Svalbard2.JPG" alt="Photo 2">
+    <img src="https://jarla-t.github.io/assets/images/gallery/Mountains_Svalbard2.JPG" alt="Photo 2">
     <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
