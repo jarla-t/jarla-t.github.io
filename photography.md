@@ -6,19 +6,19 @@ permalink: /photography/
 
 <div class="portfolio">
   <div class="photo">
-    <img src="https://jarla-t.github.io/assets/images/Ocean_Svalbard.JPG" alt="Photo 1">
+    <img src="https://jarla-t.github.io/assets/images/Ocean_Svalbard.JPG" alt="Ship in Adventfjorden">
     <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
-    <img src="https://jarla-t.github.io/assets/images/Mountains_Svalbard2.JPG" alt="Photo 2">
+    <img src="https://jarla-t.github.io/assets/images/Mountains_Svalbard2.JPG" alt="View from Trollsteinen">
     <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
-    <img src="https://jarla-t.github.io/assets/images/Svalbard_1.jpg" alt="Photo 3">
+    <img src="https://jarla-t.github.io/assets/images/Svalbard_1.jpg" alt="Spisshusene">
     <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
-    <img src="/assets/images/gallery/photo4.jpg" alt="Photo 4">
+    <img src="https://jarla-t.github.io/assets/images/Svalbard_3.jpg" alt="Descent from Lars Hiertafjellet">
     <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
 </div>
