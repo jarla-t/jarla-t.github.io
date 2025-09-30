@@ -56,6 +56,15 @@ permalink: /photography/
   border-radius: 4px;
   pointer-events: none;
 }
+
+.photo::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: transparent; /* invisible shield */
+}
+  
 </style>
 
 <script>
