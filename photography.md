@@ -4,54 +4,57 @@ title: Photography
 permalink: /photography/
 ---
 
-<div class="gallery">
+<div class="portfolio">
   <div class="photo">
     <img src="/assets/images/gallery/photo1.jpg" alt="Photo 1">
-    <div class="overlay">© Your Name</div>
+    <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
     <img src="/assets/images/gallery/photo2.jpg" alt="Photo 2">
-    <div class="overlay">© Your Name</div>
+    <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
     <img src="/assets/images/gallery/photo3.jpg" alt="Photo 3">
-    <div class="overlay">© Your Name</div>
+    <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
     <img src="/assets/images/gallery/photo4.jpg" alt="Photo 4">
-    <div class="overlay">© Your Name</div>
+    <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
 </div>
 
 <style>
-.gallery {
+.portfolio {
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px; /* space between photos */
+  padding: 20px;
 }
 
 .photo {
   position: relative;
+  width: 100%;
+  max-width: 1000px; /* controls maximum size of each image */
 }
 
 .photo img {
-  width: 300px;
+  width: 100%;
   height: auto;
   border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
 }
 
 .overlay {
   position: absolute;
-  bottom: 8px;
-  right: 8px;
+  bottom: 12px;
+  right: 12px;
   background: rgba(0,0,0,0.6);
   color: #fff;
   font-size: 14px;
-  padding: 4px 8px;
+  padding: 6px 10px;
   border-radius: 4px;
-  pointer-events: none; /* stops overlay from blocking */
+  pointer-events: none;
 }
 </style>
 
@@ -59,3 +62,4 @@ permalink: /photography/
 // Optional: disable right-click
 document.addEventListener('contextmenu', event => event.preventDefault());
 </script>
+
