@@ -47,11 +47,11 @@ permalink: /photography/
 
 .overlay {
   position: absolute;
-  bottom: 12px;
-  right: 12px;
-  background: rgba(0,0,0,0.6);
+  bottom: 14px;
+  right: 14px;
+  background: rgba(0,0,0,0.4);
   color: #fff;
-  font-size: 14px;
+  font-size: 18px;
   padding: 6px 10px;
   border-radius: 4px;
   pointer-events: none;
