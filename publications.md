@@ -7,6 +7,8 @@ permalink: /publications/
 ### Full list of publications
 
 <ul>
+ <li><a href="https://arxiv.org/abs/2508.19403">M. C. Schmidt, A. O. Alvarez, R. Pallotta, B. A. Seid, J. J. de Boer, J. Thiesbrummel, F. Lang, G. Grancini, B. Ehrler, "Quantification of mobile ions in perovskite solar cells with thermally activated ion current measurements," arXiv preprint arXiv:2508.19403, 2025.</a></li>
+
   <li><a href="https://doi.org/10.1021/acsenergylett.5c01102">S. C. Gillespie, A. O. Alvarez, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, B. Ehrler, G. Coletti, E. C. Garnett, "Intensity-Modulated Photoluminescence Spectroscopy for Revealing Ionic Processes in Halide Perovskites," ACS Energy Letters, vol. 10, pp. 3122–3131, 2025.</a></li>
 
   <li><a href="https://doi.org/10.1002/aenm.202400720">S. Shah, F. Yang, E. Köhnen, E. Ugur, M. Khenkin, J. Thiesbrummel, B. Li, L. Holte, S. Berwig, F. Scherler, et al., "Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells," Advanced Energy Materials, vol. 14, no. 48, 2400720, 2024.</a></li>
