@@ -90,7 +90,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
   <p style="margin: 0;">
     Welcome! I’m a scientist fascinated by how technology and nature intersect.
-    On this site, you’ll find my research, publications, and
+    On this site, you’ll find my research, 
+    <a href="https://jarla-t.github.io/publications/" style="text-decoration: underline; color: inherit;">publications</a>, and
     <a href="https://jarla-t.github.io/cv/" style="text-decoration: underline; color: inherit;">CV</a>
     — but also my personal projects and photography.
   </p>
