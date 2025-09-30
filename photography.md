@@ -6,11 +6,11 @@ permalink: /photography/
 
 <div class="portfolio">
   <div class="photo">
-    <img src="/assets/images/gallery/photo1.jpg" alt="Photo 1">
+    <img src="https://jarla-t.github.io/assets/images/Ocean_Svalbard.JPG" alt="Photo 1">
     <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
-    <img src="/assets/images/gallery/photo2.jpg" alt="Photo 2">
+    <img src="/assets/images/gallery/Mountains_Svalbard2.JPG" alt="Photo 2">
     <div class="overlay">© Jarla Thiesbrummel</div>
   </div>
   <div class="photo">
