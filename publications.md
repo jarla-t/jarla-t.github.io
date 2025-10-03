@@ -212,7 +212,7 @@ permalink: /publications/
   <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1038/srep29785">A. Yamagishi, M. Tanaka, J. J. M. Lenders, J. Thiesbrummel, N. A. J. M. Sommerdijk, T. Matsunaga, A. Arakaki, "Control of magnetite nanocrystal morphology in magnetotactic bacteria by regulation of mms7 gene expression," Scientific Reports, vol. 6, 29785, 2016.
-    </a>
-  </div>
-</li>
-</ul>
+      </a>
+    </div>
+  </li>
+  </ul>
