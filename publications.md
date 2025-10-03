@@ -30,9 +30,8 @@ permalink: /publications/
   border-radius: 6px;
 }
 
-.pub-thumb.empty {
-  background: none;
-  border: none;
+.pub-thumb.invisible {
+  visibility: hidden;  /* keeps the space, hides the image */
 }
 
 /* On small screens */
@@ -52,7 +51,7 @@ permalink: /publications/
 
 <ul>
  <li class="pub-entry">
-  <div class="pub-thumb empty"></div>
+  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
   <div class="pub-text">
     <a href="https://arxiv.org/abs/2508.19403">
       M. C. Schmidt, A. O. Alvarez, R. Pallotta, B. A. Seid, J. J. de Boer, J. Thiesbrummel, F. Lang, G. Grancini, B. Ehrler, 
