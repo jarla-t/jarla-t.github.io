@@ -97,7 +97,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/TOC/ToC_IonDensities.jpg" alt="TOC figure" class="pub-thumb">
+  <img src="/assets/images/TOC/ToC_IonDensities.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1021/acs.jpclett.3c00530">J. Diekmann, F. Peña-Camargo, N. Tokmoldin, J. Thiesbrummel, J. Warby, E. Gutierrez-Partida, S. Shah, D. Neher, M. Stolterfoht, "Determination of mobile ion densities in halide perovskites via low-frequency capacitance and charge extraction techniques," The Journal of Physical Chemistry Letters, vol. 14, no. 18, pp. 4200–4210, 2023.
     </a>
@@ -115,7 +115,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/TOC/flexibletandems.jpg" alt="TOC figure" class="pub-thumb">
+  <img src="/assets/images/TOC/TOC_flexibletandems.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1002/aenm.202202438">H. Lai, J. Luo, Y. Zwirner, S. Olthof, A. Wieczorek, F. Ye, Q. Jeangros, X. Yin, F. Akhundova, T. Ma, et al., "High-performance flexible all-perovskite tandem solar cells with reduced Voc-deficit in wide-bandgap subcell," Advanced Energy Materials, vol. 12, no. 45, p. 2202438, 2022.
     </a>
