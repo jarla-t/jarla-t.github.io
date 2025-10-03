@@ -23,9 +23,8 @@ permalink: /publications/
 }
 
 .pub-thumb {
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
+  width: 120px;       /* fixed width */
+  height: auto;       /* keep aspect ratio */
   margin-right: 15px;
   border: 1px solid #ddd;
   border-radius: 6px;
