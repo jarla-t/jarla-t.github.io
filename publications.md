@@ -5,9 +5,15 @@ permalink: /publications/
 ---
 
 <style>
-/* Make the main content area wider on this page */
+/* target the main content container on this page */
+.page {
+  max-width: 1200px !important; /* increase overall width */
+  width: 100% !important;
+}
+
 .page__content {
-  max-width: 1100px; /* default is ~800px */
+  max-width: 1200px !important;
+  width: 100% !important;
 }
   
 .pub-entry {
