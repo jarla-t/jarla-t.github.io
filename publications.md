@@ -3,10 +3,41 @@ layout: single
 title: Publications
 permalink: /publications/
 ---
+<style>
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1em;
+}
+
+.pub-thumb {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  margin-right: 15px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.pub-text {
+  flex: 1;
+}
+</style>
+
 
 ### Full list of publications
 
 <ul>
+ <li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://arxiv.org/abs/2508.19403">
+      M. C. Schmidt, A. O. Alvarez, R. Pallotta, B. A. Seid, J. J. de Boer, J. Thiesbrummel, F. Lang, G. Grancini, B. Ehrler, 
+      "Quantification of mobile ions in perovskite solar cells with thermally activated ion current measurements," 
+      <em>arXiv preprint arXiv:2508.19403</em>, 2025.
+    </a>
+  </div>
+</li>
  <li><a href="https://arxiv.org/abs/2508.19403">M. C. Schmidt, A. O. Alvarez, R. Pallotta, B. A. Seid, J. J. de Boer, J. Thiesbrummel, F. Lang, G. Grancini, B. Ehrler, "Quantification of mobile ions in perovskite solar cells with thermally activated ion current measurements," arXiv preprint arXiv:2508.19403, 2025.</a></li>
 
   <li><a href="https://doi.org/10.1021/acsenergylett.5c01102">S. C. Gillespie, A. O. Alvarez, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, B. Ehrler, G. Coletti, E. C. Garnett, "Intensity-Modulated Photoluminescence Spectroscopy for Revealing Ionic Processes in Halide Perovskites," ACS Energy Letters, vol. 10, pp. 3122–3131, 2025.</a></li>
