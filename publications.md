@@ -76,21 +76,51 @@ permalink: /publications/
 
   <li><a href="https://doi.org/10.1002/adma.202307743">F. Yang, P. Tockhorn, A. Musiienko, F. Lang, D. Menzel, R. Macqueen, E. Köhnen, K. Xu, S. Mariotti, D. Mantione, et al., "Minimizing interfacial recombination in 1.8 eV triple-halide perovskites for 27.5% efficient all-perovskite tandems," Advanced Materials, vol. 36, no. 6, 2307743, 2024.</a></li>
 
-  <li><a href="https://doi.org/10.1002/aenm.202303135">J. Warby, S. Shah, J. Thiesbrummel, E. Gutierrez-Partida, H. Lai, B. Alebachew, M. Grischek, F. Yang, F. Lang, S. Albrecht, et al., "Mismatch of quasi–fermi level splitting and Voc in perovskite solar cells," Advanced Energy Materials, vol. 13, no. 48, 2303135, 2023.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/TOC/TOC_VOCmismatch.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1002/aenm.202303135">J. Warby, S. Shah, J. Thiesbrummel, E. Gutierrez-Partida, H. Lai, B. Alebachew, M. Grischek, F. Yang, F. Lang, S. Albrecht, et al., "Mismatch of quasi–fermi level splitting and Voc in perovskite solar cells," Advanced Energy Materials, vol. 13, no. 48, 2303135, 2023.
+    </a>
+  </div>
+</li>
 
   <li><a href="https://doi.org/10.1038/s41560-023-01274-z">J. Zhu, Y. Luo, R. He, C. Chen, Y. Wang, J. Luo, Z. Yi, J. Thiesbrummel, C. Wang, F. Lang, et al., "A donor–acceptor-type hole-selective contact reducing non-radiative recombination losses in both subcells towards efficient all-perovskite tandems," Nature Energy, vol. 8, no. 7, pp. 714–724, 2023.</a></li>
 
   <li><a href="https://doi.org/10.1038/s41586-023-05992-y">R. He, W. Wang, Z. Yi, F. Lang, C. Chen, J. Luo, J. Zhu, J. Thiesbrummel, et al., "Improving interface quality for 1-cm² all-perovskite tandem solar cells," Nature, vol. 618, no. 7963, pp. 80–86, 2023.</a></li>
 
-  <li><a href="https://doi.org/10.1002/aenm.202204339">F. Yang, R. W. MacQueen, D. Menzel, A. Musiienko, A. Al-Ashouri, J. Thiesbrummel, S. Shah, K. Prashanthan, D. Abou-Ras, L. Korte, et al., "Rubidium iodide reduces recombination losses in methylammonium-free tin-lead perovskite solar cells," Advanced Energy Materials, vol. 13, no. 19, p. 2204339, 2023.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/TOC/TOC_RbI.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1002/aenm.202204339">F. Yang, R. W. MacQueen, D. Menzel, A. Musiienko, A. Al-Ashouri, J. Thiesbrummel, S. Shah, K. Prashanthan, D. Abou-Ras, L. Korte, et al., "Rubidium iodide reduces recombination losses in methylammonium-free tin-lead perovskite solar cells," Advanced Energy Materials, vol. 13, no. 19, p. 2204339, 2023.
+    </a>
+  </div>
+</li>
 
-  <li><a href="https://doi.org/10.1021/acs.jpclett.3c00530">J. Diekmann, F. Peña-Camargo, N. Tokmoldin, J. Thiesbrummel, J. Warby, E. Gutierrez-Partida, S. Shah, D. Neher, M. Stolterfoht, "Determination of mobile ion densities in halide perovskites via low-frequency capacitance and charge extraction techniques," The Journal of Physical Chemistry Letters, vol. 14, no. 18, pp. 4200–4210, 2023.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/TOC/ToC_IonDensities.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1021/acs.jpclett.3c00530">J. Diekmann, F. Peña-Camargo, N. Tokmoldin, J. Thiesbrummel, J. Warby, E. Gutierrez-Partida, S. Shah, D. Neher, M. Stolterfoht, "Determination of mobile ion densities in halide perovskites via low-frequency capacitance and charge extraction techniques," The Journal of Physical Chemistry Letters, vol. 14, no. 18, pp. 4200–4210, 2023.
+    </a>
+  </div>
+</li>
 
   <li><a href="https://doi.org/10.1038/s41467-023-36141-8">P. Caprioglio, J. A. Smith, R. D. J. Oliver, A. Dasgupta, S. Choudhary, M. D. Farrar, A. J. Ramadan, Y.-H. Lin, M. G. Christoforo, J. M. Ball, et al., "Open-circuit and short-circuit loss management in wide-gap perovskite pin solar cells," Nature Communications, vol. 14, no. 1, p. 932, 2023.</a></li>
 
-  <li><a href="https://doi.org/10.1002/aenm.202202674">J. Thiesbrummel, F. Peña-Camargo, K. O. Brinkmann, E. Gutierrez-Partida, F. Yang, J. Warby, S. Albrecht, D. Neher, T. Riedl, H. J. Snaith, et al., "Understanding and minimizing VOC losses in all-perovskite tandem photovoltaics," Advanced Energy Materials, vol. 13, no. 3, 2202674, 2023.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/TOC/TOC_Voclosses.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1002/aenm.202202674">J. Thiesbrummel, F. Peña-Camargo, K. O. Brinkmann, E. Gutierrez-Partida, F. Yang, J. Warby, S. Albrecht, D. Neher, T. Riedl, H. J. Snaith, et al., "Understanding and minimizing VOC losses in all-perovskite tandem photovoltaics," Advanced Energy Materials, vol. 13, no. 3, 2202674, 2023.
+    </a>
+  </div>
+</li>
 
-  <li><a href="https://doi.org/10.1002/aenm.202202438">H. Lai, J. Luo, Y. Zwirner, S. Olthof, A. Wieczorek, F. Ye, Q. Jeangros, X. Yin, F. Akhundova, T. Ma, et al., "High-performance flexible all-perovskite tandem solar cells with reduced Voc-deficit in wide-bandgap subcell," Advanced Energy Materials, vol. 12, no. 45, p. 2202438, 2022.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/TOC/flexibletandems.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1002/aenm.202202438">H. Lai, J. Luo, Y. Zwirner, S. Olthof, A. Wieczorek, F. Ye, Q. Jeangros, X. Yin, F. Akhundova, T. Ma, et al., "High-performance flexible all-perovskite tandem solar cells with reduced Voc-deficit in wide-bandgap subcell," Advanced Energy Materials, vol. 12, no. 45, p. 2202438, 2022.
+    </a>
+  </div>
+</li>
 
   <li><a href="https://doi.org/10.1063/5.0085286">F. Peña-Camargo, J. Thiesbrummel, H. Hempel, A. Musiienko, V. M. Le Corre, J. Diekmann, J. Warby, T. Unold, F. Lang, D. Neher, et al., "Revealing the doping density in perovskite solar cells and its impact on device performance," Applied Physics Reviews, vol. 9, no. 2, 2022.</a></li>
 
@@ -111,7 +141,7 @@ permalink: /publications/
 </li>
   
 <li class="pub-entry">
-  <img src="/assets/images/gallery/TOC/TOC_quantum.jpg" alt="TOC figure" class="pub-thumb">
+  <img src="/assets/images/TOC/TOC_quantum.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1002/qute.201900015">D. Cruz, R. Fournier, F. Gremion, A. Jeannerot, K. Komagata, T. Tosic, J. Thiesbrummel, C. L. Chan, N. Macris, M.-A. Dupertuis, et al., "Efficient quantum algorithms for GHZ and W states, and implementation on the IBM quantum computer," Advanced Quantum Technologies, vol. 2, no. 5–6, 1900015, 2019.</a>
   </div>
