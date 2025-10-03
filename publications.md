@@ -11,8 +11,8 @@ permalink: /publications/
 }
 
 .pub-thumb {
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   margin-right: 15px;
   border: 1px solid #ddd;
