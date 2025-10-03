@@ -30,6 +30,11 @@ permalink: /publications/
   border-radius: 6px;
 }
 
+.pub-thumb.empty {
+  background: none;
+  border: none;
+}
+
 /* On small screens */
 @media (max-width: 768px) {
   .pub-thumb {
@@ -47,7 +52,7 @@ permalink: /publications/
 
 <ul>
  <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-thumb empty"></div>
   <div class="pub-text">
     <a href="https://arxiv.org/abs/2508.19403">
       M. C. Schmidt, A. O. Alvarez, R. Pallotta, B. A. Seid, J. J. de Boer, J. Thiesbrummel, F. Lang, G. Grancini, B. Ehrler, 
