@@ -7,12 +7,12 @@ permalink: /publications/
 <style>
 /* target the main content container on this page */
 .page {
-  max-width: 1200px !important; /* increase overall width */
+  max-width: 1400px !important; /* increase overall width */
   width: 100% !important;
 }
 
 .page__content {
-  max-width: 1200px !important;
+  max-width: 1400px !important;
   width: 100% !important;
 }
   
@@ -23,7 +23,7 @@ permalink: /publications/
 }
 
 .pub-thumb {
-  width: 140px;       /* fixed width */
+  width: 200px;       /* fixed width */
   height: auto;       /* keep aspect ratio */
   margin-right: 15px;
   border: 1px solid #ddd;
