@@ -4,7 +4,7 @@ This repository contains the source code for my personal website:
 [https://jarla-t.github.io](https://jarla-t.github.io)
 
 ## About
-This is where I host my personal page.  
+This is where I host my personal page  
 
 ## License
 - **Code**: MIT License (see [LICENSE](./LICENSE))  
