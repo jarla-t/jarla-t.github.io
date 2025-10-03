@@ -65,7 +65,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <img src="/assets/images/TOC/TOC_tandemions.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1002/aenm.202400720">S. Shah, F. Yang, E. Köhnen, E. Ugur, M. Khenkin, J. Thiesbrummel, B. Li, L. Holte, S. Berwig, F. Scherler, et al., "Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells," Advanced Energy Materials, vol. 14, no. 48, 2400720, 2024.
     </a>
@@ -89,7 +89,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <img src="/assets/images/TOC/TOC_PbSnreview.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1021/acs.chemrev.3c00667">S. Hu, J. Thiesbrummel, J. Pascual, M. Stolterfoht, A. Wakamiya, H. J. Snaith, "Narrow bandgap metal halide perovskites for all-perovskite tandem photovoltaics," Chemical Reviews, vol. 124, no. 7, pp. 4079–4123, 2024.
     </a>
@@ -97,7 +97,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <img src="/assets/images/TOC/TOC_inorganic.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1021/jacs.3c11711">Z. Iqbal, R. Félix, A. Musiienko, J. Thiesbrummel, H. Köbler, E. Gutierrez-Partida, T. W. Gries, E. Hüsem, A. Saleh, R. G. Wilks, et al., "Unveiling the potential of ambient air annealing for highly efficient inorganic CsPbI3 perovskite solar cells," Journal of the American Chemical Society, vol. 146, no. 7, pp. 4642–4651, 2024.
     </a>
@@ -105,7 +105,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <img src="/assets/images/TOC/TOC_TandemsFJ.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1002/adma.202307743">F. Yang, P. Tockhorn, A. Musiienko, F. Lang, D. Menzel, R. Macqueen, E. Köhnen, K. Xu, S. Mariotti, D. Mantione, et al., "Minimizing interfacial recombination in 1.8 eV triple-halide perovskites for 27.5% efficient all-perovskite tandems," Advanced Materials, vol. 36, no. 6, 2307743, 2024.
     </a>
