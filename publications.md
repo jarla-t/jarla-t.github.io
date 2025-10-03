@@ -23,13 +23,20 @@ permalink: /publications/
 }
 
 .pub-thumb {
-  width: 120px;       /* fixed width */
+  width: 140px;       /* fixed width */
   height: auto;       /* keep aspect ratio */
   margin-right: 15px;
   border: 1px solid #ddd;
   border-radius: 6px;
 }
 
+/* On small screens */
+@media (max-width: 768px) {
+  .pub-thumb {
+    width: 80px;   /* shrink ToC */
+    margin-right: 10px;
+  }
+  
 .pub-text {
   flex: 1;
 }
