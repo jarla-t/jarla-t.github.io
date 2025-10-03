@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 <style>
+/* Make the main content area wider on this page */
+.page__content {
+  max-width: 1100px; /* default is ~800px */
+}
+  
 .pub-entry {
   display: flex;
   align-items: flex-start;
