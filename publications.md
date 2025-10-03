@@ -64,17 +64,52 @@ permalink: /publications/
   </div>
 </li>
 
-  <li><a href="https://doi.org/10.1002/aenm.202400720">S. Shah, F. Yang, E. Köhnen, E. Ugur, M. Khenkin, J. Thiesbrummel, B. Li, L. Holte, S. Berwig, F. Scherler, et al., "Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells," Advanced Energy Materials, vol. 14, no. 48, 2400720, 2024.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1002/aenm.202400720">S. Shah, F. Yang, E. Köhnen, E. Ugur, M. Khenkin, J. Thiesbrummel, B. Li, L. Holte, S. Berwig, F. Scherler, et al., "Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells," Advanced Energy Materials, vol. 14, no. 48, 2400720, 2024.
+    </a>
+  </div>
+</li>
 
-  <li><a href="https://doi.org/10.1088/2515-7655/ad7404">J. C. Blakesley, R. S. Bonilla, M. Freitag, A. M. Ganose, N. Gasparini, P. Kaienburg, G. Koutsourakis, J. D. Major, J. Nelson, N. K. Noel, et al., "Roadmap on established and emerging photovoltaics for sustainable energy conversion," Journal of Physics: Energy, vol. 6, no. 4, p. 041501, 2024.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1088/2515-7655/ad7404">J. C. Blakesley, R. S. Bonilla, M. Freitag, A. M. Ganose, N. Gasparini, P. Kaienburg, G. Koutsourakis, J. D. Major, J. Nelson, N. K. Noel, et al., "Roadmap on established and emerging photovoltaics for sustainable energy conversion," Journal of Physics: Energy, vol. 6, no. 4, p. 041501, 2024.
+    </a>
+  </div>
+</li>
 
-  <li><a href="https://doi.org/10.1038/s41560-024-01487-w">J. Thiesbrummel, S. Shah, E. Gutierrez-Partida, F. Zu, F. Peña-Camargo, S. Zeiske, J. Diekmann, F. Ye, K. P. Peters, K. O. Brinkmann, et al., "Ion-induced field screening as a dominant factor in perovskite solar cell operational stability," Nature Energy, vol. 9, no. 6, pp. 664–676, 2024.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1038/s41560-024-01487-w">J. Thiesbrummel, S. Shah, E. Gutierrez-Partida, F. Zu, F. Peña-Camargo, S. Zeiske, J. Diekmann, F. Ye, K. P. Peters, K. O. Brinkmann, et al., "Ion-induced field screening as a dominant factor in perovskite solar cell operational stability," Nature Energy, vol. 9, no. 6, pp. 664–676, 2024.
+    </a>
+  </li>
 
-  <li><a href="https://doi.org/10.1021/acs.chemrev.3c00667">S. Hu, J. Thiesbrummel, J. Pascual, M. Stolterfoht, A. Wakamiya, H. J. Snaith, "Narrow bandgap metal halide perovskites for all-perovskite tandem photovoltaics," Chemical Reviews, vol. 124, no. 7, pp. 4079–4123, 2024.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1021/acs.chemrev.3c00667">S. Hu, J. Thiesbrummel, J. Pascual, M. Stolterfoht, A. Wakamiya, H. J. Snaith, "Narrow bandgap metal halide perovskites for all-perovskite tandem photovoltaics," Chemical Reviews, vol. 124, no. 7, pp. 4079–4123, 2024.
+    </a>
+  </div>
+</li>
 
-  <li><a href="https://doi.org/10.1021/jacs.3c11711">Z. Iqbal, R. Félix, A. Musiienko, J. Thiesbrummel, H. Köbler, E. Gutierrez-Partida, T. W. Gries, E. Hüsem, A. Saleh, R. G. Wilks, et al., "Unveiling the potential of ambient air annealing for highly efficient inorganic CsPbI3 perovskite solar cells," Journal of the American Chemical Society, vol. 146, no. 7, pp. 4642–4651, 2024.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1021/jacs.3c11711">Z. Iqbal, R. Félix, A. Musiienko, J. Thiesbrummel, H. Köbler, E. Gutierrez-Partida, T. W. Gries, E. Hüsem, A. Saleh, R. G. Wilks, et al., "Unveiling the potential of ambient air annealing for highly efficient inorganic CsPbI3 perovskite solar cells," Journal of the American Chemical Society, vol. 146, no. 7, pp. 4642–4651, 2024.
+    </a>
+  </div>
+</li>
 
-  <li><a href="https://doi.org/10.1002/adma.202307743">F. Yang, P. Tockhorn, A. Musiienko, F. Lang, D. Menzel, R. Macqueen, E. Köhnen, K. Xu, S. Mariotti, D. Mantione, et al., "Minimizing interfacial recombination in 1.8 eV triple-halide perovskites for 27.5% efficient all-perovskite tandems," Advanced Materials, vol. 36, no. 6, 2307743, 2024.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1002/adma.202307743">F. Yang, P. Tockhorn, A. Musiienko, F. Lang, D. Menzel, R. Macqueen, E. Köhnen, K. Xu, S. Mariotti, D. Mantione, et al., "Minimizing interfacial recombination in 1.8 eV triple-halide perovskites for 27.5% efficient all-perovskite tandems," Advanced Materials, vol. 36, no. 6, 2307743, 2024.
+    </a>
+  </div>
+</li>
 
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_VOCmismatch.jpg" alt="TOC figure" class="pub-thumb">
@@ -84,9 +119,21 @@ permalink: /publications/
   </div>
 </li>
 
-  <li><a href="https://doi.org/10.1038/s41560-023-01274-z">J. Zhu, Y. Luo, R. He, C. Chen, Y. Wang, J. Luo, Z. Yi, J. Thiesbrummel, C. Wang, F. Lang, et al., "A donor–acceptor-type hole-selective contact reducing non-radiative recombination losses in both subcells towards efficient all-perovskite tandems," Nature Energy, vol. 8, no. 7, pp. 714–724, 2023.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1038/s41560-023-01274-z">J. Zhu, Y. Luo, R. He, C. Chen, Y. Wang, J. Luo, Z. Yi, J. Thiesbrummel, C. Wang, F. Lang, et al., "A donor–acceptor-type hole-selective contact reducing non-radiative recombination losses in both subcells towards efficient all-perovskite tandems," Nature Energy, vol. 8, no. 7, pp. 714–724, 2023.
+    </a>
+  </div>
+</li>
 
-  <li><a href="https://doi.org/10.1038/s41586-023-05992-y">R. He, W. Wang, Z. Yi, F. Lang, C. Chen, J. Luo, J. Zhu, J. Thiesbrummel, et al., "Improving interface quality for 1-cm² all-perovskite tandem solar cells," Nature, vol. 618, no. 7963, pp. 80–86, 2023.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1038/s41586-023-05992-y">R. He, W. Wang, Z. Yi, F. Lang, C. Chen, J. Luo, J. Zhu, J. Thiesbrummel, et al., "Improving interface quality for 1-cm² all-perovskite tandem solar cells," Nature, vol. 618, no. 7963, pp. 80–86, 2023.
+    </a>
+  </div>
+</li>
 
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_RbI.jpg" alt="TOC figure" class="pub-thumb">
@@ -104,7 +151,13 @@ permalink: /publications/
   </div>
 </li>
 
-  <li><a href="https://doi.org/10.1038/s41467-023-36141-8">P. Caprioglio, J. A. Smith, R. D. J. Oliver, A. Dasgupta, S. Choudhary, M. D. Farrar, A. J. Ramadan, Y.-H. Lin, M. G. Christoforo, J. M. Ball, et al., "Open-circuit and short-circuit loss management in wide-gap perovskite pin solar cells," Nature Communications, vol. 14, no. 1, p. 932, 2023.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1038/s41467-023-36141-8">P. Caprioglio, J. A. Smith, R. D. J. Oliver, A. Dasgupta, S. Choudhary, M. D. Farrar, A. J. Ramadan, Y.-H. Lin, M. G. Christoforo, J. M. Ball, et al., "Open-circuit and short-circuit loss management in wide-gap perovskite pin solar cells," Nature Communications, vol. 14, no. 1, p. 932, 2023.
+    </a>
+  </div>
+</li>
 
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_Voclosses.jpg" alt="TOC figure" class="pub-thumb">
@@ -122,7 +175,13 @@ permalink: /publications/
   </div>
 </li>
 
-  <li><a href="https://doi.org/10.1063/5.0085286">F. Peña-Camargo, J. Thiesbrummel, H. Hempel, A. Musiienko, V. M. Le Corre, J. Diekmann, J. Warby, T. Unold, F. Lang, D. Neher, et al., "Revealing the doping density in perovskite solar cells and its impact on device performance," Applied Physics Reviews, vol. 9, no. 2, 2022.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1063/5.0085286">F. Peña-Camargo, J. Thiesbrummel, H. Hempel, A. Musiienko, V. M. Le Corre, J. Diekmann, J. Warby, T. Unold, F. Lang, D. Neher, et al., "Revealing the doping density in perovskite solar cells and its impact on device performance," Applied Physics Reviews, vol. 9, no. 2, 2022.
+    </a>
+  </div>
+</li>
 
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_fasthyst.jpg" alt="TOC figure" class="pub-thumb">
@@ -143,9 +202,16 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_quantum.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1002/qute.201900015">D. Cruz, R. Fournier, F. Gremion, A. Jeannerot, K. Komagata, T. Tosic, J. Thiesbrummel, C. L. Chan, N. Macris, M.-A. Dupertuis, et al., "Efficient quantum algorithms for GHZ and W states, and implementation on the IBM quantum computer," Advanced Quantum Technologies, vol. 2, no. 5–6, 1900015, 2019.</a>
+    <a href="https://doi.org/10.1002/qute.201900015">D. Cruz, R. Fournier, F. Gremion, A. Jeannerot, K. Komagata, T. Tosic, J. Thiesbrummel, C. L. Chan, N. Macris, M.-A. Dupertuis, et al., "Efficient quantum algorithms for GHZ and W states, and implementation on the IBM quantum computer," Advanced Quantum Technologies, vol. 2, no. 5–6, 1900015, 2019.
+    </a>
   </div>
 </li>
 
-  <li><a href="https://doi.org/10.1038/srep29785">A. Yamagishi, M. Tanaka, J. J. M. Lenders, J. Thiesbrummel, N. A. J. M. Sommerdijk, T. Matsunaga, A. Arakaki, "Control of magnetite nanocrystal morphology in magnetotactic bacteria by regulation of mms7 gene expression," Scientific Reports, vol. 6, 29785, 2016.</a></li>
+<li class="pub-entry">
+  <img src="/assets/images/gallery/photo1.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1038/srep29785">A. Yamagishi, M. Tanaka, J. J. M. Lenders, J. Thiesbrummel, N. A. J. M. Sommerdijk, T. Matsunaga, A. Arakaki, "Control of magnetite nanocrystal morphology in magnetotactic bacteria by regulation of mms7 gene expression," Scientific Reports, vol. 6, 29785, 2016.
+    </a>
+  </div>
+</li>
 </ul>
