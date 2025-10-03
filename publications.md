@@ -2,8 +2,8 @@
 layout: single
 title: Publications
 permalink: /publications/
-classes: wide
 ---
+
 <style>
 .pub-entry {
   display: flex;
