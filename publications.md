@@ -50,6 +50,15 @@ permalink: /publications/
 ### Full list of publications
 
 <ul>
+
+<li class="pub-entry">
+  <img src="/assets/images/TOC/TOC_excitationintervals.jpg" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1021/acsami.5c18736">S. C. Gillespie, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, J. J. de Boer, G. Coletti, E. C. Garnett, "Excitation Intervals Enhance Performance in Perovskite Solar Cells," ACS Applied Materials & Interfaces, 2025.
+    </a>
+  </div>
+</li>
+
  <li class="pub-entry">
   <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
   <div class="pub-text">
@@ -60,6 +69,7 @@ permalink: /publications/
     </a>
   </div>
 </li>
+
 
   <li class="pub-entry">
     <img src="/assets/images/TOC/TOC_intensitymodulated.gif" alt="TOC figure" class="pub-thumb">
