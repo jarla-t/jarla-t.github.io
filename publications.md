@@ -95,7 +95,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <img src="/assets/images/TOC/TOC_Ageing.png" alt="" class="pub-thumb invisible">
   <div class="pub-text">
     <a href="https://doi.org/10.1038/s41560-024-01487-w">J. Thiesbrummel, S. Shah, E. Gutierrez-Partida, F. Zu, F. Peña-Camargo, S. Zeiske, J. Diekmann, F. Ye, K. P. Peters, K. O. Brinkmann, et al., "Ion-induced field screening as a dominant factor in perovskite solar cell operational stability," Nature Energy, vol. 9, no. 6, pp. 664–676, 2024.
     </a>
