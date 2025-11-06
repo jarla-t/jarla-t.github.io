@@ -146,7 +146,16 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_tandemions.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1002/aenm.202400720">S. Shah, F. Yang, E. Köhnen, E. Ugur, M. Khenkin, J. Thiesbrummel, B. Li, L. Holte, S. Berwig, F. Scherler, et al., "Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells," Advanced Energy Materials, vol. 14, no. 48, 2400720, 2024.
+    <a href="https://doi.org/10.1002/aenm.202400720">
+      <span class="pub-title">
+        Impact of Ion Migration on the Performance and Stability of Perovskite-Based Tandem Solar Cells
+      </span><br>
+      <span class="pub-authors">
+        S. Shah, F. Yang, E. Köhnen, E. Ugur, M. Khenkin, J. Thiesbrummel, B. Li, L. Holte, S. Berwig, F. Scherler, et al.
+      </span><br>
+      <span class="pub-journal">
+        Advanced Energy Materials, vol. 14, no. 48, 2400720, 2024
+      </span><br>
     </a>
   </div>
 </li>
@@ -154,7 +163,16 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
   <div class="pub-text">
-    <a href="https://doi.org/10.1088/2515-7655/ad7404">J. C. Blakesley, R. S. Bonilla, M. Freitag, A. M. Ganose, N. Gasparini, P. Kaienburg, G. Koutsourakis, J. D. Major, J. Nelson, N. K. Noel, et al., "Roadmap on established and emerging photovoltaics for sustainable energy conversion," Journal of Physics: Energy, vol. 6, no. 4, p. 041501, 2024.
+    <a href="https://doi.org/10.1088/2515-7655/ad7404">
+      <span class="pub-title">
+        Roadmap on established and emerging photovoltaics for sustainable energy conversion
+      </span><br>
+      <span class="pub-authors">
+        J. C. Blakesley, R. S. Bonilla, M. Freitag, A. M. Ganose, N. Gasparini, P. Kaienburg, G. Koutsourakis, J. D. Major, J. Nelson, N. K. Noel, et al.
+      </span><br> 
+      <span class="pub-journal">
+        Journal of Physics: Energy, vol. 6, no. 4, p. 041501, 2024
+      </span><br>
     </a>
   </div>
 </li>
@@ -162,7 +180,16 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_Ageing.png" alt="" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1038/s41560-024-01487-w">J. Thiesbrummel, S. Shah, E. Gutierrez-Partida, F. Zu, F. Peña-Camargo, S. Zeiske, J. Diekmann, F. Ye, K. P. Peters, K. O. Brinkmann, et al., "Ion-induced field screening as a dominant factor in perovskite solar cell operational stability," Nature Energy, vol. 9, no. 6, pp. 664–676, 2024.
+    <a href="https://doi.org/10.1038/s41560-024-01487-w">
+      <span class="pub-title">
+        Ion-induced field screening as a dominant factor in perovskite solar cell operational stability
+      </span><br>
+      <span class="pub-authors">
+      J. Thiesbrummel, S. Shah, E. Gutierrez-Partida, F. Zu, F. Peña-Camargo, S. Zeiske, J. Diekmann, F. Ye, K. P. Peters, K. O. Brinkmann, et al.
+      </span><br>
+      <span class="pub-journal">
+        Nature Energy, vol. 9, no. 6, pp. 664–676, 2024
+      </span><br>
     </a>
   </div>
 </li>
@@ -170,7 +197,16 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_PbSnreview.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1021/acs.chemrev.3c00667">S. Hu, J. Thiesbrummel, J. Pascual, M. Stolterfoht, A. Wakamiya, H. J. Snaith, "Narrow bandgap metal halide perovskites for all-perovskite tandem photovoltaics," Chemical Reviews, vol. 124, no. 7, pp. 4079–4123, 2024.
+    <a href="https://doi.org/10.1021/acs.chemrev.3c00667">
+      <span class="pub-title">
+        Narrow bandgap metal halide perovskites for all-perovskite tandem photovoltaics 
+      </span><br>
+      <span class="pub-authors">
+        S. Hu, J. Thiesbrummel, J. Pascual, M. Stolterfoht, A. Wakamiya, H. J. Snaith
+      </span><br>
+      <span class="pub-authors">
+        Chemical Reviews, vol. 124, no. 7, pp. 4079–4123, 2024
+      </span><br>
     </a>
   </div>
 </li>
