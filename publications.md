@@ -95,11 +95,10 @@ permalink: /publications/
   <img src="/assets/images/TOC/TOC_intervals.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1021/acsami.5c18736">
-      <span class="pub-authors">
-      S. C. Gillespie, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, J. J. de Boer, G. Coletti, E. C. Garnett
-      </span><br>
       <span class="pub-title">
-        "Excitation Intervals Enhance Performance in Perovskite Solar Cells"
+      Excitation Intervals Enhance Performance in Perovskite Solar Cells
+      </span><br><span class="pub-authors">
+      S. C. Gillespie, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, J. J. de Boer, G. Coletti, E. C. Garnett
       </span><br>
       <span class="pub-journal">
       ACS Applied Materials & Interfaces, 2025
