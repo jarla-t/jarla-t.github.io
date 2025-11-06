@@ -214,7 +214,16 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_inorganic.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1021/jacs.3c11711">Z. Iqbal, R. Félix, A. Musiienko, J. Thiesbrummel, H. Köbler, E. Gutierrez-Partida, T. W. Gries, E. Hüsem, A. Saleh, R. G. Wilks, et al., "Unveiling the potential of ambient air annealing for highly efficient inorganic CsPbI3 perovskite solar cells," Journal of the American Chemical Society, vol. 146, no. 7, pp. 4642–4651, 2024.
+    <a href="https://doi.org/10.1021/jacs.3c11711">
+      <span class="pub-title">
+        Unveiling the potential of ambient air annealing for highly efficient inorganic CsPbI3 perovskite solar cells
+      </span><br>
+      <span class="pub-authors">
+        Z. Iqbal, R. Félix, A. Musiienko, J. Thiesbrummel, H. Köbler, E. Gutierrez-Partida, T. W. Gries, E. Hüsem, A. Saleh, R. G. Wilks, et al.
+      </span><br>
+      <span class="pub-journal">
+        Journal of the American Chemical Society, vol. 146, no. 7, pp. 4642–4651, 2024
+      </span><br>
     </a>
   </div>
 </li>
