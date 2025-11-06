@@ -34,6 +34,46 @@ permalink: /publications/
   visibility: hidden;  /* keeps the space, hides the image */
 }
 
+.pub-link {
+  display: flex;
+  align-items: flex-start;
+  text-decoration: none;
+  color: inherit;
+  transition: background-color 0.2s ease;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.pub-link:hover {
+  background-color: #f8f9fb;
+}
+
+.pub-title {
+  color: #0056b3;
+  font-weight: 600;
+}
+
+.pub-link:hover .pub-title {
+  color: #003d80;
+  text-decoration: underline;
+}
+
+.pub-authors {
+  color: #444;
+  font-size: 0.95em;
+}
+
+.pub-journal {
+  color: #666;
+  font-size: 0.9em;
+}
+
+
+
+
+
+  
+
 /* On small screens */
 @media (max-width: 768px) {
   .pub-thumb {
@@ -55,9 +95,15 @@ permalink: /publications/
   <img src="/assets/images/TOC/TOC_intervals.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1021/acsami.5c18736">
-      S. C. Gillespie, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, J. J. de Boer, G. Coletti, E. C. Garnett, 
-      "Excitation Intervals Enhance Performance in Perovskite Solar Cells," 
-      ACS Applied Materials & Interfaces, 2025.
+      <span class="pub-authors">
+      S. C. Gillespie, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, J. J. de Boer, G. Coletti, E. C. Garnett
+      </span><br>
+      <span class="pub-title">
+        "Excitation Intervals Enhance Performance in Perovskite Solar Cells"
+      </span><br>
+      <span class="pub-journal">
+      ACS Applied Materials & Interfaces, 2025
+      </span><br>
     </a>
   </div>
 </li>
