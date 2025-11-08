@@ -313,10 +313,11 @@ permalink: /publications/
   <div class="pub-text">
     <a href="https://doi.org/10.1002/solr.202100772">
       <span class="pub-title">
+        Quantification of efficiency losses due to mobile ions in perovskite solar cells via fast hysteresis measurements
       </span><br>
       <span class="pub-authors">
         V. M. Le Corre, J. Diekmann, F. Peña-Camargo, J. Thiesbrummel, N. Tokmoldin, E. Gutierrez-Partida, K. P. Peters, L. Perdigón-Toro, M. H. Futscher, F. Lang, et al.
-      </span><br>, "Quantification of efficiency losses due to mobile ions in perovskite solar cells via fast hysteresis measurements," 
+      </span><br>
       <span class="pub-journal">
         Solar RRL, vol. 6, no. 4, 2100772, 2022
       </span><br>
