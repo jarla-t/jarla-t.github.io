@@ -311,7 +311,15 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_fasthyst.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1002/solr.202100772">V. M. Le Corre, J. Diekmann, F. Peña-Camargo, J. Thiesbrummel, N. Tokmoldin, E. Gutierrez-Partida, K. P. Peters, L. Perdigón-Toro, M. H. Futscher, F. Lang, et al., "Quantification of efficiency losses due to mobile ions in perovskite solar cells via fast hysteresis measurements," Solar RRL, vol. 6, no. 4, 2100772, 2022.
+    <a href="https://doi.org/10.1002/solr.202100772">
+      <span class="pub-title">
+      </span><br>
+      <span class="pub-authors">
+        V. M. Le Corre, J. Diekmann, F. Peña-Camargo, J. Thiesbrummel, N. Tokmoldin, E. Gutierrez-Partida, K. P. Peters, L. Perdigón-Toro, M. H. Futscher, F. Lang, et al.
+      </span><br>, "Quantification of efficiency losses due to mobile ions in perovskite solar cells via fast hysteresis measurements," 
+      <span class="pub-journal">
+        Solar RRL, vol. 6, no. 4, 2100772, 2022
+      </span><br>
     </a>
   </div>
 </li>
@@ -319,7 +327,16 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_currentlosses.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1002/aenm.202101447">J. Thiesbrummel, V. M. Le Corre, F. Peña-Camargo, L. Perdigón-Toro, F. Lang, F. Yang, M. Grischek, E. Gutierrez-Partida, J. Warby, M. D. Farrar, et al., "Universal current losses in perovskite solar cells due to mobile ions," Advanced Energy Materials, vol. 11, no. 34, p. 2101447, 2021.
+    <a href="https://doi.org/10.1002/aenm.202101447">
+      <span class="pub-title">
+        Universal current losses in perovskite solar cells due to mobile ions
+      </span><br>
+      <span class="pub-authors">
+        J. Thiesbrummel, V. M. Le Corre, F. Peña-Camargo, L. Perdigón-Toro, F. Lang, F. Yang, M. Grischek, E. Gutierrez-Partida, J. Warby, M. D. Farrar, et al.
+      </span><br> 
+      <span class="pub-journal">
+        Advanced Energy Materials, vol. 11, no. 34, p. 2101447, 2021
+      </span><br>
     </a>
   </div>
 </li>
@@ -327,7 +344,16 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/TOC/TOC_quantum.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1002/qute.201900015">D. Cruz, R. Fournier, F. Gremion, A. Jeannerot, K. Komagata, T. Tosic, J. Thiesbrummel, C. L. Chan, N. Macris, M.-A. Dupertuis, et al., "Efficient quantum algorithms for GHZ and W states, and implementation on the IBM quantum computer," Advanced Quantum Technologies, vol. 2, no. 5–6, 1900015, 2019.
+    <a href="https://doi.org/10.1002/qute.201900015">
+      <span class="pub-title">
+        Efficient quantum algorithms for GHZ and W states, and implementation on the IBM quantum computer
+      </span><br>
+      <span class="pub-authors">
+        D. Cruz, R. Fournier, F. Gremion, A. Jeannerot, K. Komagata, T. Tosic, J. Thiesbrummel, C. L. Chan, N. Macris, M.-A. Dupertuis, et al.
+      </span><br> 
+      <span class="pub-journal">
+        Advanced Quantum Technologies, vol. 2, no. 5–6, 1900015, 2019
+      </span><br>
     </a>
   </div>
 </li>
@@ -335,7 +361,15 @@ permalink: /publications/
 <li class="pub-entry">
   <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
   <div class="pub-text">
-    <a href="https://doi.org/10.1038/srep29785">A. Yamagishi, M. Tanaka, J. J. M. Lenders, J. Thiesbrummel, N. A. J. M. Sommerdijk, T. Matsunaga, A. Arakaki, "Control of magnetite nanocrystal morphology in magnetotactic bacteria by regulation of mms7 gene expression," Scientific Reports, vol. 6, 29785, 2016.
+    <a href="https://doi.org/10.1038/srep29785">
+      <span class="pub-title">
+        Control of magnetite nanocrystal morphology in magnetotactic bacteria by regulation of mms7 gene expression
+      </span><br>
+      <span class="pub-authors">
+        A. Yamagishi, M. Tanaka, J. J. M. Lenders, J. Thiesbrummel, N. A. J. M. Sommerdijk, T. Matsunaga, A. Arakaki
+      </span><br> 
+      <span class="pub-journal">Scientific Reports, vol. 6, 29785, 2016
+      </span><br>
       </a>
     </div>
   </li>
