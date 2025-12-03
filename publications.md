@@ -92,6 +92,23 @@ permalink: /publications/
 <ul>
 
 <li class="pub-entry">  
+  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <div class="pub-text">
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202517703">
+      <span class="pub-title">
+      Performance Constraints of All-Perovskite Tandem Solar Cells in Low-Intensity, Low-Temperature Environments
+      </span><br>
+      <span class="pub-authors">
+      S. Ozen, E. Beier, F. Peña-Camargo, J. Thiesbrummel, G. Boccarella, P. Forozi Sowmeeh, M. Stolterfoht, D. Neher, K. O. Brinkmann, T. Riedl, F. Lang
+      </span><br>
+      <span class="pub-journal">
+      Advanced Materials, 2025
+      </span><br>
+    </a>
+  </div>
+</li>
+
+<li class="pub-entry">  
   <img src="/assets/images/TOC/TOC_intervals.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1021/acsami.5c18736">
