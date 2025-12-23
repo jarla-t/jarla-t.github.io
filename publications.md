@@ -119,7 +119,7 @@ permalink: /publications/
       S. C. Gillespie, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, J. J. de Boer, G. Coletti, E. C. Garnett
       </span><br>
       <span class="pub-journal">
-      ACS Applied Materials & Interfaces, 2025
+      ACS Applied Materials & Interfaces, vol. 17, no.43, pp. 59476–59485,  2025
       </span><br>
     </a>
   </div>
