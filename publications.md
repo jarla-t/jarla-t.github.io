@@ -119,24 +119,24 @@ permalink: /publications/
       S. C. Gillespie, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, J. J. de Boer, G. Coletti, E. C. Garnett
       </span><br>
       <span class="pub-journal">
-      ACS Applied Materials & Interfaces, vol. 17, no.43, pp. 59476–59485,  2025
+      ACS Applied Materials & Interfaces, vol. 17, no. 43, pp. 59476–59485,  2025
       </span><br>
     </a>
   </div>
 </li>
 
- <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+<li class="pub-entry">
+  <img src="/assets/images/TOC/TOC_taic.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://arxiv.org/abs/2508.19403">
+    <a href="https://doi.org/10.1021/acsenergylett.5c02224">
       <span class="pub-title">
-      Quantification of mobile ions in perovskite solar cells with thermally activated ion current measurements
+        Quantification of Mobile Ions in Perovskite Solar Cells with Thermally Activated Ion Current Measurements
       </span><br>
       <span class="pub-authors">
-      M. C. Schmidt, A. O. Alvarez, R. Pallotta, B. A. Seid, J. J. de Boer, J. Thiesbrummel, F. Lang, G. Grancini, B. Ehrler
+        M. C. Schmidt, A. O. Alvarez, R. Pallotta, B. A. Seid, J. J. de Boer, J. Thiesbrummel, F. Lang, G. Grancini, B. Ehrler
       </span><br>
-      <span class="pub-journal">
-      <em>arXiv preprint arXiv:2508.19403</em>, 2025
+      <span class="pub-authors">
+        ACS Energy Letters, in press
       </span><br>
     </a>
   </div>
