@@ -126,7 +126,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/TOC/TOC_taic.jpg" alt="TOC figure" class="pub-thumb">
+  <img src="/assets/images/TOC/TOC_taic.png" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1021/acsenergylett.5c02224">
       <span class="pub-title">
