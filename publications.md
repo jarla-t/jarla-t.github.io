@@ -92,6 +92,24 @@ permalink: /publications/
 <ul>
 
 <li class="pub-entry">  
+  <img src="/assets/images/TOC/TOC_IonReview.webp" alt="TOC figure" class="pub-thumb">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1038/s41570-025-00790-8">
+      <span class="pub-title">
+      Ion migration in perovskite solar cells
+      </span><br>
+      <span class="pub-authors">
+      J. Thiesbrummel, J. V. Milić, C. Deibel, E. C. Garnett, S. Tao, T. Kirchartz, A. Guerrero, P. Cameron, W. Tress, M. S. Islam, B. Ehrler
+      </span><br>
+      <span class="pub-journal">
+      Nature Reviews Chemistry, 2026
+      </span><br>
+    </a>
+  </div>
+</li>
+
+
+<li class="pub-entry">  
   <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
   <div class="pub-text">
     <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202517703">
