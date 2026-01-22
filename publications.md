@@ -94,7 +94,7 @@ permalink: /publications/
 <li class="pub-entry">  
   <img src="/assets/images/TOC/TOC_IonReview.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
-    <a href="https://doi.org/10.1038/s41570-025-00790-8">
+    <a href="https://rdcu.be/eZ6GB">
       <span class="pub-title">
       Ion migration in perovskite solar cells
       </span><br>
