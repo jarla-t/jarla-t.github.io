@@ -130,5 +130,5 @@ permalink: /cv/
 ## Awards
 
 - 🎓 **Humboldt Research Fellowship** 
-- 🥇 **Best Oral Presentation**, Symposium C, e-MRS Spring 2021
+- 🥇 **Special commendation for outstanding doctoral thesis**, Division of Mathematical, Physical & Life Sciences, University of Oxford
 - 🏆 **Best Master Thesis in Academia**, Materials Science and Engineering, EPFL
