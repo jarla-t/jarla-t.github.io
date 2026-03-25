@@ -130,5 +130,5 @@ permalink: /cv/
 ## Awards
 
 - 🎓 **Humboldt Research Fellowship** 
-- 🥇 **Special commendation for outstanding doctoral thesis**, Division of Mathematical, Physical & Life Sciences, University of Oxford
+- 🥇 **Special Commendation for Outstanding Doctoral Thesis**, Division of Mathematical, Physical & Life Sciences, University of Oxford
 - 🏆 **Best Master Thesis in Academia**, Materials Science and Engineering, EPFL
