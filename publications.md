@@ -129,7 +129,7 @@ permalink: /publications/
 
 
 <li class="pub-entry">  
-  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <img src="/assets/images/TOC/TOC_spacetandem.jpg" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202517703">
       <span class="pub-title">
