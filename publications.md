@@ -92,6 +92,25 @@ permalink: /publications/
 <ul>
 
 <li class="pub-entry">  
+  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <div class="pub-text">
+    <a href="https://doi.org/10.21203/rs.3.rs-9643570/v1">
+      <span class="pub-title">
+      Reversing Degradation: Recovery of Ion-Induced Performance Losses in Perovskite Solar Cells
+      </span><br>
+      <span class="pub-authors">
+      P. Forozi Sowmeeh, J. Thiesbrummel, A. F. Castro Mendez, S. Shah, B. A. Seid, F. Peña-Camargo, T. Hultzsch, J. Hagenberg, M. Stolterfoht, F. Lang
+      </span><br>
+      <span class="pub-journal">
+      Research Square preprint, 2026
+      </span><br>
+    </a>
+  </div>
+</li>
+
+
+
+<li class="pub-entry">  
   <img src="/assets/images/TOC/TOC_IonReview.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://rdcu.be/eZ6GB">
