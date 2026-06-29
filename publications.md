@@ -102,7 +102,7 @@ permalink: /publications/
       P. Forozi Sowmeeh, J. Thiesbrummel, A. F. Castro Mendez, S. Shah, B. A. Seid, F. Peña-Camargo, T. Hultzsch, J. Hagenberg, M. Stolterfoht, F. Lang
       </span><br>
       <span class="pub-journal">
-      Research Square preprint, 2026
+      Research Square Preprint, 2026
       </span><br>
     </a>
   </div>
