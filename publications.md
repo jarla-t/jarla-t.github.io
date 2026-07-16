@@ -108,7 +108,22 @@ permalink: /publications/
   </div>
 </li>
 
-
+<li class="pub-entry">  
+  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <div class="pub-text">
+    <a href="https://doi.org/10.1039/D6EE01534D">
+      <span class="pub-title">
+        Multifunctional Polymer Additives Enable Highly Efficient, Mechanically Durable, and Deployable Flexible Perovskite Photovoltaics
+      </span><br>
+      <span class="pub-authors">
+        B. A. Seid, S. Sarisozen, A.-F. Castro-Méndez, S. Demchyshyn, N. L. Mirrafati, P. Forozi-Sowmeeh, S. Kaya, J. Thiesbrummel, G. He, A.-C. Lehnen, V. Tkachenko, P. B. Groszewicz, F. Hu, T. Maschwitz, T. Riedl, K. O. Brinkmann, M. Hartlieb, D. Neher, F. Lang
+      </span><br>
+      <span class="pub-journal">
+        Energy &amp; Environmental Science, 2026
+      </span><br>
+    </a>
+  </div>
+</li>
 
 <li class="pub-entry">  
   <img src="/assets/images/TOC/TOC_IonReview.webp" alt="TOC figure" class="pub-thumb">
