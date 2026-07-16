@@ -126,6 +126,22 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">  
+  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">  <div class="pub-text">
+    <a href="https://doi.org/10.1021/acsami.6c09224">
+      <span class="pub-title">
+        Organic Solar Cells with Solution-Processed Carbon Top Electrodes
+      </span><br>
+      <span class="pub-authors">
+        F. Zimmermann, P. Wang, C. Tückmantel, J. Thiesbrummel, S. Opitz, F. Lang, K. O. Brinkmann, T. Riedl
+      </span><br>
+      <span class="pub-journal">
+        ACS Applied Materials &amp; Interfaces, 2026
+      </span><br>
+    </a>
+  </div>
+</li>
+
+<li class="pub-entry">  
   <img src="/assets/images/TOC/TOC_IonReview.webp" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://rdcu.be/eZ6GB">
