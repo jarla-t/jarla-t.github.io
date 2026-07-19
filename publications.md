@@ -536,7 +536,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <img src="/assets/images/TOC/TOC_magnetite" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1038/srep29785">
       <span class="pub-title">
