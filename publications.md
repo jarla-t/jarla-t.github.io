@@ -247,7 +247,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <img src="/assets/images/TOC/TOC_Roadmap.png" alt="TOC Figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1088/2515-7655/ad7404">
       <span class="pub-title">
@@ -468,7 +468,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">
-  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <img src="/assets/images/TOC/TOC_Doping.png" alt="TOC Figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1063/5.0085286">
       <span class="pub-title">
