@@ -171,7 +171,7 @@ permalink: /publications/
       S. Ozen, E. Beier, F. Peña-Camargo, J. Thiesbrummel, G. Boccarella, P. Forozi Sowmeeh, M. Stolterfoht, D. Neher, K. O. Brinkmann, T. Riedl, F. Lang
       </span><br>
       <span class="pub-journal">
-      Advanced Materials, 2025
+      Advanced Materials, vol. 38, no. 15, 2026
       </span><br>
     </a>
   </div>
@@ -205,7 +205,7 @@ permalink: /publications/
         M. C. Schmidt, A. O. Alvarez, R. Pallotta, B. A. Seid, J. J. de Boer, J. Thiesbrummel, F. Lang, G. Grancini, B. Ehrler
       </span><br>
       <span class="pub-authors">
-        ACS Energy Letters, in press
+        ACS Energy Letters, vol 11, no. 1, pp. 409-418, 2026
       </span><br>
     </a>
   </div>
@@ -223,7 +223,7 @@ permalink: /publications/
           S. C. Gillespie, A. O. Alvarez, J. Thiesbrummel, V. S. Gevaerts, L. J. Geerligs, B. Ehrler, G. Coletti, E. C. Garnett
         </span><br>
         <span class="pub-journal">
-          ACS Energy Letters, vol. 10, pp. 3122–3131, 2025
+          ACS Energy Letters, vol. 10, no. 7, pp. 3122–3131, 2025
         </span><br>
     </a>
   </div>
