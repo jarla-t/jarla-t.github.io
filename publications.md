@@ -109,7 +109,7 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">  
-  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">
+  <img src="/assets/images/TOC/TOC_PMAflexible.png" alt="TOC figure" class="pub-thumb">
   <div class="pub-text">
     <a href="https://doi.org/10.1039/D6EE01534D">
       <span class="pub-title">
@@ -126,7 +126,8 @@ permalink: /publications/
 </li>
 
 <li class="pub-entry">  
-  <img src="/assets/images/gallery/photo1.jpg" alt="" class="pub-thumb invisible">  <div class="pub-text">
+  <img src="/assets/images/TOC/TOC_Carbonelectrode.png" alt="TOC figure" class="pub-thumb">  
+  <div class="pub-text">
     <a href="https://doi.org/10.1021/acsami.6c09224">
       <span class="pub-title">
         Organic Solar Cells with Solution-Processed Carbon Top Electrodes
