@@ -153,7 +153,7 @@ permalink: /publications/
       J. Thiesbrummel, J. V. Milić, C. Deibel, E. C. Garnett, S. Tao, T. Kirchartz, A. Guerrero, P. Cameron, W. Tress, M. S. Islam, B. Ehrler
       </span><br>
       <span class="pub-journal">
-      Nature Reviews Chemistry, 2026
+      Nature Reviews Chemistry, vol. 10, pp 179-195, 2026
       </span><br>
     </a>
   </div>
