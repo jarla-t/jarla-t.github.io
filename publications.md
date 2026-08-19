@@ -18,7 +18,7 @@ permalink: /publications/
   
 .pub-entry {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
   margin-bottom: 1em;
 }
 
@@ -26,6 +26,7 @@ permalink: /publications/
   width: 200px;       /* fixed width */
   height: auto;       /* keep aspect ratio */
   margin-right: 15px;
+  margin-top: 2px;
   border: 1px solid #ddd;
   border-radius: 6px;
 }
