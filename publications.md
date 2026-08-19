@@ -28,6 +28,7 @@ permalink: /publications/
   margin-right: 15px;
   border: 1px solid #ddd;
   border-radius: 6px;
+  align-self: flex-start;
 }
 
 .pub-thumb.invisible {
