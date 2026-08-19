@@ -26,7 +26,7 @@ permalink: /publications/
   width: 200px;       /* fixed width */
   height: auto;       /* keep aspect ratio */
   margin-right: 15px;
-  margin-top: 2px;
+  margin-top: 6px;
   border: 1px solid #ddd;
   border-radius: 6px;
 }
