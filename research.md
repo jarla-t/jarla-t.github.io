@@ -16,7 +16,6 @@ My research focuses on perovskite solar cells and climate-related materials scie
 I work on perovskite solar cells, focusing on **ion migration**, **device stability**, and **climate-related materials science**.  
 My projects combine experimental and computational approaches to understand and improve the performance of these materials in real-world conditions.
 
----
 
 ## Selected Publications
 
@@ -66,3 +65,7 @@ My projects combine experimental and computational approaches to understand and 
 ## Explainers 
 Want to learn more about mobile ions in perovskite solar cells and how they cause current losses? Check out this video from the Next Generation Solar Energy (NGSE) PhD-Postdoc series:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/chaqbmi-FIg?si=YWbczbT2Wt7HP3z5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Upcoming Talks
+Research pitch at the <a href="https://falling-walls.com/programme/we-heraeus-symposium-breakthroughs-physical-sciences">WE-Heraeus-Symposium for Breakthroughs in Physical Sciences - Falling Walls Science Summit</a>
+
