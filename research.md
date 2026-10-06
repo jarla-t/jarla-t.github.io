@@ -68,4 +68,5 @@ Want to learn more about mobile ions in perovskite solar cells and how they caus
 
 ## Upcoming Talks
 Research pitch at the <a href="https://falling-walls.com/programme/we-heraeus-symposium-breakthroughs-physical-sciences">WE-Heraeus-Symposium for Breakthroughs in Physical Sciences - Falling Walls Science Summit</a>
-
+Invited talks at the <a href="https://www.nanoge.org/MATSUSFall26/symposia?t=6996c74dfb89e41aa98adb7e">Pathways to Stable Metal Halide Perovskites</a> and <a href="https://www.nanoge.org/MATSUSFall26/symposia?t=6996c88bfb89e41aa98adb8c">Ion Dynamics and Transport Phenomena in Metal Halide Perovskites</a> symposia, MatSusFall26
+Invited talk at the <a href="https://www.ngse.info/">11th Next Generation Solar Energy Conference (NGSE11)</a>
